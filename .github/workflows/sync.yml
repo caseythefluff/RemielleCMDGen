@@ -1,0 +1,29 @@
+name: Auto-Sync Gachabase IDs
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows you to trigger it manually anytime with 1 click
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Parser Script
+        run: python parser.py
+
+      - name: Commit and push changes if updated
+        run: |
+          git config --global user.name "remiellecmdgen-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add gachabase_sync.json
+          git commit -m "Auto-update Gachabase IDs and links" || exit 0
+          git push
