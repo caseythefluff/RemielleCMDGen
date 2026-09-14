@@ -17,7 +17,9 @@ urls = [
     ("https://zzz.gachabase.net/w-engines/beta?lang=en", "wengines", "w-engines"),
     ("https://zzz.gachabase.net/bangboo/beta?lang=en", "bangboos", "bangboo"),
     ("https://zzz.gachabase.net/drive-discs/beta?lang=en", "discs", "drive-discs"),
-    ("https://zzz.gachabase.net/items/all/beta?lang=en", "items", "items"),
+    ("https://zzz.gachabase.net/items/all/beta?lang=en", "items", "items/all"),
+    ("https://zzz.gachabase.net/items/currencies/beta?lang=en", "items", "items/currencies"),
+    ("https://zzz.gachabase.net/items/materials/beta?lang=en", "items", "items/materials"),
 ]
 
 headers = {
@@ -44,7 +46,7 @@ for url, category_key, url_path_category in urls:
 
             for match in re.finditer(r'["\']?slug["\']?\s*:\s*["\']([^"\']+)["\']', html, re.IGNORECASE):
                 item_slug = match.group(1)
-                if item_slug.lower() in ['beta', 'page', 'lang', 'en', 'all']:
+                if item_slug.lower() in ['beta', 'page', 'lang', 'en', 'all', 'currencies', 'materials']:
                     continue
                 start = max(0, match.start() - 1000)
                 end = min(len(html), match.end() + 1000)
@@ -67,7 +69,7 @@ print(f"Locked in {len(global_agent_ids)} agent IDs to filter out from other sec
 # Second pass: Process all categories
 for url, category_key, url_path_category in urls:
     print(f"\n==========================================")
-    print(f"🔍 Scanning Category: {category_key.upper()}")
+    print(f"🔍 Scanning Category: {category_key.upper()} ({url_path_category})")
     print(f"==========================================")
 
     try:
@@ -84,7 +86,7 @@ for url, category_key, url_path_category in urls:
             for match in slug_matches:
                 item_slug = match.group(1)
                 
-                if item_slug.lower() in ['beta', 'page', 'lang', 'en', 'all', 'home', 'privacy', 'about', 'discord']:
+                if item_slug.lower() in ['beta', 'page', 'lang', 'en', 'all', 'home', 'privacy', 'about', 'discord', 'currencies', 'materials']:
                     continue
                     
                 start = max(0, match.start() - 1000)
@@ -98,9 +100,13 @@ for url, category_key, url_path_category in urls:
                     match_id_str = m.group(1)
                     distance = abs(m.start() - slug_pos_in_window)
                     
-                    # Apply strict check ONLY for Bangboos to avoid grabbing rarity numbers
+                    # Apply strict check for Bangboos and Items to avoid grabbing 1-digit rarity numbers
                     if category_key == "bangboos":
                         if len(match_id_str) == 5 and match_id_str.startswith("5"):
+                            id_matches.append((match_id_str, distance))
+                    elif category_key == "items":
+                        # Items generally have IDs that are 3 digits or longer (e.g. 111, 103040)
+                        if len(match_id_str) >= 3:
                             id_matches.append((match_id_str, distance))
                     else:
                         id_matches.append((match_id_str, distance))
@@ -145,6 +151,7 @@ for url, category_key, url_path_category in urls:
                 else:
                     print(f"  ⚠️ [{item_id}] {name} -> NO icon matched in window!")
 
+                # Since url_path_category now matches the exact route (e.g. "items/currencies"), it constructs perfectly
                 full_url = f"https://zzz.gachabase.net/{url_path_category}/{item_id}/{item_slug}/beta?lang=en"
                 
                 entry = {
@@ -164,5 +171,5 @@ with open("gachabase_sync.json", "w") as f:
     json.dump(extracted_data, f, indent=4)
 
 print("\n==========================================")
-print("🎉 Successfully parsed all categories with targeted Bangboo fix!")
+print("🎉 Successfully parsed all categories with targeted subdirectories!")
 print("==========================================")
