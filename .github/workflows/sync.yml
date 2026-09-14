@@ -11,8 +11,6 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    env:
-      ACTIONS_ALLOW_USE_NODE_VERSION: node20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,6 +20,13 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Dependencies
+        # If parser.py uses external modules (like requests), install them here.
+        run: |
+          python -m pip install --upgrade pip
+          # pip install requests
+          # pip install -r requirements.txt 
+
       - name: Run Parser Script
         run: python parser.py
 
@@ -29,6 +34,13 @@ jobs:
         run: |
           git config --global user.name "remiellecmdgen-bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add gachabase_sync.json
-          git commit -m "Auto-update Gachabase IDs and icons [skip ci]" || exit 0
-          git push
+          
+          # Prevents fatal crash if the python script failed to create the file
+          if [ -f gachabase_sync.json ]; then
+            git add gachabase_sync.json
+            git commit -m "Auto-update Gachabase IDs and icons [skip ci]" || exit 0
+            git push
+          else
+            echo "Error: gachabase_sync.json does not exist. The parser script likely failed silently."
+            exit 1
+          fi
