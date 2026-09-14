@@ -12,13 +12,12 @@ class HTTP308RedirectHandler(urllib.request.HTTPRedirectHandler):
 opener = urllib.request.build_opener(HTTP308RedirectHandler)
 urllib.request.install_opener(opener)
 
-# Target categories updated to their endpoints
 urls = [
-    "https://zzz.gachabase.net/agents/beta",
-    "https://zzz.gachabase.net/w-engines/beta",
-    "https://zzz.gachabase.net/bangboo/beta",
-    "https://zzz.gachabase.net/drive-discs/beta",
-    "https://zzz.gachabase.net/items/all/beta",
+    ("https://zzz.gachabase.net/agents/beta", "agents", "agents"),
+    ("https://zzz.gachabase.net/w-engines/beta", "wengines", "w-engines"),
+    ("https://zzz.gachabase.net/bangboo/beta", "bangboos", "bangboo"),
+    ("https://zzz.gachabase.net/drive-discs/beta", "discs", "drive-discs"),
+    ("https://zzz.gachabase.net/items/all/beta", "items", "items"),
 ]
 
 headers = {
@@ -26,27 +25,9 @@ headers = {
 }
 
 extracted_data = {"agents": [], "wengines": [], "bangboos": [], "discs": [], "items": []}
-seen_ids = {"agents": set(), "wengines": set(), "bangboos": set(), "discs": set(), "items": set()}
+seen_ids = {key: set() for key in extracted_data.keys()}
 
-for url in urls:
-    category_key = ""
-    url_path_category = ""
-    if "agents" in url:
-        category_key = "agents"
-        url_path_category = "agents"
-    elif "w-engines" in url:
-        category_key = "wengines"
-        url_path_category = "w-engines"
-    elif "bangboo" in url:
-        category_key = "bangboos"
-        url_path_category = "bangboo"
-    elif "drive-discs" in url:
-        category_key = "discs"
-        url_path_category = "drive-discs"
-    elif "items" in url:
-        category_key = "items"
-        url_path_category = "items"
-
+for url, category_key, url_path_category in urls:
     print(f"\n==========================================")
     print(f"🔍 Scanning Category: {category_key.upper()}")
     print(f"==========================================")
@@ -86,16 +67,30 @@ for url in urls:
                 
                 if item_id in seen_ids[category_key]:
                     continue
+
+                # STRICT BOUNDARY GUARD: Prevent cross-category bleeding (e.g. Agents leaking into W-Engines)
+                # Allow test engines explicitly as requested
+                if category_key == "wengines":
+                    # W-Engine IDs usually start with '14' or contain 'test-engine'
+                    if not (item_id.startswith("14") or "test-engine" in item_slug.lower()):
+                        continue
+                elif category_key == "agents":
+                    # Agents usually start with '10' or '16'
+                    if not (item_id.startswith("10") or item_id.startswith("16")):
+                        continue
+                elif category_key == "bangboos":
+                    # Bangboos usually have short IDs or specific ranges, ensure we don't grab agents/w-engines here
+                    if item_id.startswith("10") or item_id.startswith("14"):
+                        continue
                     
                 name = item_slug.replace("-", " ").replace("_", " ").title()
                 
-                # Directly target the exact <img> tag structure containing the Gachabase CDN source
+                # Extract image CDN URL from the Svelte element structure
                 img_matches = []
                 for m in re.finditer(r'<img[^>]+src=["\'](https?://i\.gachabase\.net/[^"\']+)["\']', window, re.IGNORECASE):
                     distance = abs(m.start() - slug_pos_in_window)
                     img_matches.append((m.group(1), distance))
                 
-                # Fallback backup search if the img tag uses protocol-relative paths or alternative attribute orders
                 if not img_matches:
                     for m in re.finditer(r'src=["\'](https?://i\.gachabase\.net/[^"\']+)["\']', window, re.IGNORECASE):
                         distance = abs(m.start() - slug_pos_in_window)
@@ -127,5 +122,5 @@ with open("gachabase_sync.json", "w") as f:
     json.dump(extracted_data, f, indent=4)
 
 print("\n==========================================")
-print("🎉 Successfully parsed all categories with exact img tag matching!")
+print("🎉 Successfully parsed with category guards intact!")
 print("==========================================")
