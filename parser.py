@@ -13,11 +13,11 @@ opener = urllib.request.build_opener(HTTP308RedirectHandler)
 urllib.request.install_opener(opener)
 
 urls = [
-    ("https://zzz.gachabase.net/agents/beta", "agents", "agents"),
-    ("https://zzz.gachabase.net/w-engines/beta", "wengines", "w-engines"),
-    ("https://zzz.gachabase.net/bangboo/beta", "bangboos", "bangboo"),
-    ("https://zzz.gachabase.net/drive-discs/beta", "discs", "drive-discs"),
-    ("https://zzz.gachabase.net/items/all/beta", "items", "items"),
+    ("https://zzz.gachabase.net/agents/beta?lang=en", "agents", "agents"),
+    ("https://zzz.gachabase.net/w-engines/beta?lang=en", "wengines", "w-engines"),
+    ("https://zzz.gachabase.net/bangboo/beta?lang=en", "bangboos", "bangboo"),
+    ("https://zzz.gachabase.net/drive-discs/beta?lang=en", "discs", "drive-discs"),
+    ("https://zzz.gachabase.net/items/all/beta?lang=en", "items", "items"),
 ]
 
 headers = {
@@ -27,6 +27,44 @@ headers = {
 extracted_data = {"agents": [], "wengines": [], "bangboos": [], "discs": [], "items": []}
 seen_ids = {key: set() for key in extracted_data.keys()}
 
+global_agent_ids = set()
+
+# First pass: Pre-scan agents to build the global exclusion filter
+for url, category_key, url_path_category in urls:
+    if category_key != "agents":
+        continue
+        
+    print(f"\n🔍 Pre-scanning Agents to build exclusion filter...")
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req) as response:
+            html = response.read().decode("utf-8")
+            html = html.replace('\\u002F', '/').replace('\\/', '/')
+            html = urllib.parse.unquote(html)
+
+            for match in re.finditer(r'["\']?slug["\']?\s*:\s*["\']([^"\']+)["\']', html, re.IGNORECASE):
+                item_slug = match.group(1)
+                if item_slug.lower() in ['beta', 'page', 'lang', 'en', 'all']:
+                    continue
+                start = max(0, match.start() - 1000)
+                end = min(len(html), match.end() + 1000)
+                window = html[start:end]
+                slug_pos_in_window = match.start() - start
+                
+                id_matches = []
+                for m in re.finditer(r'["\']?id["\']?\s*:\s*["\']?(\d+)["\']?', window, re.IGNORECASE):
+                    distance = abs(m.start() - slug_pos_in_window)
+                    id_matches.append((m.group(1), distance))
+                
+                if id_matches:
+                    item_id = min(id_matches, key=lambda x: x[1])[0]
+                    global_agent_ids.add(item_id)
+    except Exception as e:
+        print(f"❌ Failed pre-scan: {e}")
+
+print(f"Locked in {len(global_agent_ids)} agent IDs to filter out from other sections.")
+
+# Second pass: Process all categories
 for url, category_key, url_path_category in urls:
     print(f"\n==========================================")
     print(f"🔍 Scanning Category: {category_key.upper()}")
@@ -56,9 +94,16 @@ for url, category_key, url_path_category in urls:
                 
                 # Find the closest ID
                 id_matches = []
-                for m in re.finditer(r'["\']?id["\']?\s*:\s*["\']?(\d+)["\']?', window, re.IGNORECASE):
+                for m in re.finditer(r'["\']?(?:item_id|id)["\']?\s*:\s*["\']?(\d+)["\']?', window, re.IGNORECASE):
+                    match_id_str = m.group(1)
                     distance = abs(m.start() - slug_pos_in_window)
-                    id_matches.append((m.group(1), distance))
+                    
+                    # Apply strict check ONLY for Bangboos to avoid grabbing rarity numbers
+                    if category_key == "bangboos":
+                        if len(match_id_str) == 5 and match_id_str.startswith("5"):
+                            id_matches.append((match_id_str, distance))
+                    else:
+                        id_matches.append((match_id_str, distance))
                 
                 if not id_matches:
                     continue
@@ -68,21 +113,18 @@ for url, category_key, url_path_category in urls:
                 if item_id in seen_ids[category_key]:
                     continue
 
-                # STRICT BOUNDARY GUARD: Prevent cross-category bleeding (e.g. Agents leaking into W-Engines)
-                # Allow test engines explicitly as requested
+                # Universal bleed check: If this ID belongs to an agent, skip it unless we are parsing agents
+                if category_key != "agents" and item_id in global_agent_ids:
+                    continue
+
+                # Reverted structural validation rules for other categories
                 if category_key == "wengines":
-                    # W-Engine IDs usually start with '14' or contain 'test-engine'
                     if not (item_id.startswith("14") or "test-engine" in item_slug.lower()):
                         continue
-                elif category_key == "agents":
-                    # Agents usually start with '10' or '16'
-                    if not (item_id.startswith("10") or item_id.startswith("16")):
+                elif category_key == "discs":
+                    if not (item_id.startswith("31") or int(item_id) > 30000):
                         continue
-                elif category_key == "bangboos":
-                    # Bangboos usually have short IDs or specific ranges, ensure we don't grab agents/w-engines here
-                    if item_id.startswith("10") or item_id.startswith("14"):
-                        continue
-                    
+
                 name = item_slug.replace("-", " ").replace("_", " ").title()
                 
                 # Extract image CDN URL from the Svelte element structure
@@ -103,7 +145,7 @@ for url, category_key, url_path_category in urls:
                 else:
                     print(f"  ⚠️ [{item_id}] {name} -> NO icon matched in window!")
 
-                full_url = f"https://zzz.gachabase.net/{url_path_category}/{item_id}/{item_slug}/beta"
+                full_url = f"https://zzz.gachabase.net/{url_path_category}/{item_id}/{item_slug}/beta?lang=en"
                 
                 entry = {
                     "id": item_id,
@@ -122,5 +164,5 @@ with open("gachabase_sync.json", "w") as f:
     json.dump(extracted_data, f, indent=4)
 
 print("\n==========================================")
-print("🎉 Successfully parsed with category guards intact!")
+print("🎉 Successfully parsed all categories with targeted Bangboo fix!")
 print("==========================================")
