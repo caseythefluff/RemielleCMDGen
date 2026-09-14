@@ -2,8 +2,8 @@ name: Auto-Sync Gachabase IDs
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,6 +11,8 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_USE_NODE_VERSION: node20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
