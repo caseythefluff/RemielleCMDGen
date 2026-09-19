@@ -514,14 +514,8 @@
         },
         {
             "id": "14163",
-            "name": "Severian Test Engine",
-            "url": "https://zzz.gachabase.net/w-engines/14163/severian-test-engine/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "14164",
-            "name": "Phoenix Test Engine",
-            "url": "https://zzz.gachabase.net/w-engines/14164/phoenix-test-engine/beta?lang=en",
+            "name": "Cage Of Forbidden Sins",
+            "url": "https://zzz.gachabase.net/w-engines/14163/cage-of-forbidden-sins/beta?lang=en",
             "icon": ""
         }
     ],
@@ -1180,8 +1174,8 @@
         },
         {
             "id": "217",
-            "name": "217",
-            "url": "https://zzz.gachabase.net/items/all/217/217/beta?lang=en",
+            "name": "Season Exp",
+            "url": "https://zzz.gachabase.net/items/all/217/season-exp/beta?lang=en",
             "icon": ""
         },
         {
@@ -2296,8 +2290,8 @@
         },
         {
             "id": "13022",
-            "name": "33 Event Ball",
-            "url": "https://zzz.gachabase.net/items/all/13022/33-event-ball/beta?lang=en",
+            "name": "Candlelight Scheme",
+            "url": "https://zzz.gachabase.net/items/all/13022/candlelight-scheme/beta?lang=en",
             "icon": ""
         },
         {
@@ -2674,14 +2668,14 @@
         },
         {
             "id": "14163",
-            "name": "Severian Test Engine",
-            "url": "https://zzz.gachabase.net/items/all/14163/severian-test-engine/beta?lang=en",
+            "name": "Cage Of Forbidden Sins",
+            "url": "https://zzz.gachabase.net/items/all/14163/cage-of-forbidden-sins/beta?lang=en",
             "icon": ""
         },
         {
             "id": "14164",
-            "name": "Phoenix Test Engine",
-            "url": "https://zzz.gachabase.net/items/all/14164/phoenix-test-engine/beta?lang=en",
+            "name": "Nirvana Plume",
+            "url": "https://zzz.gachabase.net/items/all/14164/nirvana-plume/beta?lang=en",
             "icon": ""
         },
         {
@@ -8956,8 +8950,8 @@
         },
         {
             "id": "307008",
-            "name": "307008",
-            "url": "https://zzz.gachabase.net/items/all/307008/307008/beta?lang=en",
+            "name": "Uncarved Melon Blank",
+            "url": "https://zzz.gachabase.net/items/all/307008/uncarved-melon-blank/beta?lang=en",
             "icon": ""
         },
         {
@@ -13293,6 +13287,18 @@
             "icon": ""
         },
         {
+            "id": "1002003",
+            "name": "Curiosity Wont Kill This Cat",
+            "url": "https://zzz.gachabase.net/items/all/1002003/curiosity-wont-kill-this-cat/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1002004",
+            "name": "Severians Special Ka",
+            "url": "https://zzz.gachabase.net/items/all/1002004/severians-special-ka/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "1002101",
             "name": "Synergy Feather Cat Wand",
             "url": "https://zzz.gachabase.net/items/all/1002101/synergy-feather-cat-wand/beta?lang=en",
@@ -13858,14 +13864,14 @@
         },
         {
             "id": "1003003",
-            "name": "Phoenixs Special Card",
-            "url": "https://zzz.gachabase.net/items/all/1003003/phoenixs-special-card/beta?lang=en",
+            "name": "Curiosity Wont Kill This Cat",
+            "url": "https://zzz.gachabase.net/items/all/1003003/curiosity-wont-kill-this-cat/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1003004",
-            "name": "Placeholder Severians Special Ka",
-            "url": "https://zzz.gachabase.net/items/all/1003004/placeholder-severians-special-ka/beta?lang=en",
+            "name": "Severians Special Ka",
+            "url": "https://zzz.gachabase.net/items/all/1003004/severians-special-ka/beta?lang=en",
             "icon": ""
         },
         {
@@ -18256,14 +18262,20 @@
         },
         {
             "id": "1341077",
-            "name": "1341077",
-            "url": "https://zzz.gachabase.net/items/all/1341077/1341077/beta?lang=en",
+            "name": "Phoenix",
+            "url": "https://zzz.gachabase.net/items/all/1341077/phoenix/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1341078",
             "name": "1341078",
             "url": "https://zzz.gachabase.net/items/all/1341078/1341078/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1341079",
+            "name": "Severian",
+            "url": "https://zzz.gachabase.net/items/all/1341079/severian/beta?lang=en",
             "icon": ""
         },
         {
@@ -19432,14 +19444,14 @@
         },
         {
             "id": "1350331",
-            "name": "Severian Bury The Wicked Subdue The Vile",
-            "url": "https://zzz.gachabase.net/items/all/1350331/severian-bury-the-wicked-subdue-the-vile/beta?lang=en",
+            "name": "Severian Buried Fury Hidden Malice",
+            "url": "https://zzz.gachabase.net/items/all/1350331/severian-buried-fury-hidden-malice/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350332",
-            "name": "Severianthe Net Of Justice Is Wide",
-            "url": "https://zzz.gachabase.net/items/all/1350332/severianthe-net-of-justice-is-wide/beta?lang=en",
+            "name": "Severianthe Net Of Justice",
+            "url": "https://zzz.gachabase.net/items/all/1350332/severianthe-net-of-justice/beta?lang=en",
             "icon": ""
         },
         {
@@ -19450,20 +19462,20 @@
         },
         {
             "id": "1350341",
-            "name": "Placeholderphoenix Fates Verdict",
-            "url": "https://zzz.gachabase.net/items/all/1350341/placeholderphoenix-fates-verdict/beta?lang=en",
+            "name": "Phoenix Fates Verdict",
+            "url": "https://zzz.gachabase.net/items/all/1350341/phoenix-fates-verdict/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350342",
-            "name": "Phoenixsky Dome Zero Gravity",
-            "url": "https://zzz.gachabase.net/items/all/1350342/phoenixsky-dome-zero-gravity/beta?lang=en",
+            "name": "Phoenix Celestial Weightlessness",
+            "url": "https://zzz.gachabase.net/items/all/1350342/phoenix-celestial-weightlessness/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350343",
-            "name": "Placeholderphoenix Defying Deaths Embrace",
-            "url": "https://zzz.gachabase.net/items/all/1350343/placeholderphoenix-defying-deaths-embrace/beta?lang=en",
+            "name": "Phoenix Defy Death",
+            "url": "https://zzz.gachabase.net/items/all/1350343/phoenix-defy-death/beta?lang=en",
             "icon": ""
         },
         {
@@ -22731,6 +22743,18 @@
             "icon": ""
         },
         {
+            "id": "3231631",
+            "name": "3231631",
+            "url": "https://zzz.gachabase.net/items/all/3231631/3231631/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3231641",
+            "name": "3231641",
+            "url": "https://zzz.gachabase.net/items/all/3231641/3231641/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "3300001",
             "name": "Honorary Citizen",
             "url": "https://zzz.gachabase.net/items/all/3300001/honorary-citizen/beta?lang=en",
@@ -23451,6 +23475,18 @@
             "icon": ""
         },
         {
+            "id": "3311631",
+            "name": "3311631",
+            "url": "https://zzz.gachabase.net/items/all/3311631/3311631/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3311641",
+            "name": "3311641",
+            "url": "https://zzz.gachabase.net/items/all/3311641/3311641/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "3321011",
             "name": "Ending Theme",
             "url": "https://zzz.gachabase.net/items/all/3321011/ending-theme/beta?lang=en",
@@ -23802,6 +23838,18 @@
             "id": "3321621",
             "name": "Puppets Colors",
             "url": "https://zzz.gachabase.net/items/all/3321621/puppets-colors/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3321631",
+            "name": "3321631",
+            "url": "https://zzz.gachabase.net/items/all/3321631/3321631/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3321641",
+            "name": "3321641",
+            "url": "https://zzz.gachabase.net/items/all/3321641/3321641/beta?lang=en",
             "icon": ""
         },
         {
@@ -28617,12 +28665,6 @@
             "icon": ""
         },
         {
-            "id": "4321033",
-            "name": "Vulnerableagent Zero Anby Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321033/vulnerableagent-zero-anby-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
             "id": "4322001",
             "name": "Ye Shunguang Frosted Blade Lv60",
             "url": "https://zzz.gachabase.net/items/all/4322001/ye-shunguang-frosted-blade-lv60/beta?lang=en",
@@ -30099,15 +30141,27 @@
             "icon": ""
         },
         {
-            "id": "4350331",
-            "name": "Blueprint Orphie Magus Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350331/blueprint-orphie-magus-lv50/beta?lang=en",
+            "id": "4350329",
+            "name": "Blueprinttrigger Name Lv50",
+            "url": "https://zzz.gachabase.net/items/all/4350329/blueprinttrigger-name-lv50/beta?lang=en",
             "icon": ""
         },
         {
-            "id": "4350333",
-            "name": "Blueprintanby Agent Zero Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350333/blueprintanby-agent-zero-lv50/beta?lang=en",
+            "id": "4350330",
+            "name": "Blueprintorphie Magusname Lv50",
+            "url": "https://zzz.gachabase.net/items/all/4350330/blueprintorphie-magusname-lv50/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4350331",
+            "name": "Blueprintseverian Name Lv50",
+            "url": "https://zzz.gachabase.net/items/all/4350331/blueprintseverian-name-lv50/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4350332",
+            "name": "Blueprintanby Soldier 0 Name Lv50",
+            "url": "https://zzz.gachabase.net/items/all/4350332/blueprintanby-soldier-0-name-lv50/beta?lang=en",
             "icon": ""
         },
         {
@@ -30279,15 +30333,33 @@
             "icon": ""
         },
         {
-            "id": "4350531",
-            "name": "Blueprintorphie Magus Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350531/blueprintorphie-magus-lv60/beta?lang=en",
+            "id": "4350530",
+            "name": "Blueprintorphie Magusname Lv60",
+            "url": "https://zzz.gachabase.net/items/all/4350530/blueprintorphie-magusname-lv60/beta?lang=en",
             "icon": ""
         },
         {
-            "id": "4350533",
-            "name": "Blueprintanby Unit Zero Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350533/blueprintanby-unit-zero-lv60/beta?lang=en",
+            "id": "4350531",
+            "name": "Blueprintseverian Name Lv60",
+            "url": "https://zzz.gachabase.net/items/all/4350531/blueprintseverian-name-lv60/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4350532",
+            "name": "Blueprintanby Zero Name Lv60",
+            "url": "https://zzz.gachabase.net/items/all/4350532/blueprintanby-zero-name-lv60/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4350534",
+            "name": "Blueprint Burnice Name Lv60",
+            "url": "https://zzz.gachabase.net/items/all/4350534/blueprint-burnice-name-lv60/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4350535",
+            "name": "Blueprintphoenix Name Lv60",
+            "url": "https://zzz.gachabase.net/items/all/4350535/blueprintphoenix-name-lv60/beta?lang=en",
             "icon": ""
         },
         {
@@ -30471,24 +30543,6 @@
             "icon": ""
         },
         {
-            "id": "4360116",
-            "name": "Cannot Craft Mimetic Element Alpha",
-            "url": "https://zzz.gachabase.net/items/all/4360116/cannot-craft-mimetic-element-alpha/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4360117",
-            "name": "Cannot Craft Mimetic Element",
-            "url": "https://zzz.gachabase.net/items/all/4360117/cannot-craft-mimetic-element/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4360118",
-            "name": "Cannot Craft Mimetic Element",
-            "url": "https://zzz.gachabase.net/items/all/4360118/cannot-craft-mimetic-element/beta?lang=en",
-            "icon": ""
-        },
-        {
             "id": "4364001",
             "name": "Windworn Highway Oasis Industrial Park Key",
             "url": "https://zzz.gachabase.net/items/all/4364001/windworn-highway-oasis-industrial-park-key/beta?lang=en",
@@ -30556,8 +30610,8 @@
         },
         {
             "id": "145",
-            "name": "4400000",
-            "url": "https://zzz.gachabase.net/items/all/145/4400000/beta?lang=en",
+            "name": "Gear Coins",
+            "url": "https://zzz.gachabase.net/items/all/145/gear-coins/beta?lang=en",
             "icon": ""
         },
         {
@@ -31281,6 +31335,12 @@
             "icon": ""
         },
         {
+            "id": "412001323",
+            "name": "412001323",
+            "url": "https://zzz.gachabase.net/items/all/412001323/412001323/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "412001324",
             "name": "412001324",
             "url": "https://zzz.gachabase.net/items/all/412001324/412001324/beta?lang=en",
@@ -31290,6 +31350,24 @@
             "id": "412001325",
             "name": "412001325",
             "url": "https://zzz.gachabase.net/items/all/412001325/412001325/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412001326",
+            "name": "412001326",
+            "url": "https://zzz.gachabase.net/items/all/412001326/412001326/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412001327",
+            "name": "412001327",
+            "url": "https://zzz.gachabase.net/items/all/412001327/412001327/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412001328",
+            "name": "412001328",
+            "url": "https://zzz.gachabase.net/items/all/412001328/412001328/beta?lang=en",
             "icon": ""
         },
         {
@@ -31683,6 +31761,24 @@
             "icon": ""
         },
         {
+            "id": "412011326",
+            "name": "412011326",
+            "url": "https://zzz.gachabase.net/items/all/412011326/412011326/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412011327",
+            "name": "412011327",
+            "url": "https://zzz.gachabase.net/items/all/412011327/412011327/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412011328",
+            "name": "412011328",
+            "url": "https://zzz.gachabase.net/items/all/412011328/412011328/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "412011381",
             "name": "412011381",
             "url": "https://zzz.gachabase.net/items/all/412011381/412011381/beta?lang=en",
@@ -32064,6 +32160,24 @@
             "id": "412021325",
             "name": "412021325",
             "url": "https://zzz.gachabase.net/items/all/412021325/412021325/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412021326",
+            "name": "412021326",
+            "url": "https://zzz.gachabase.net/items/all/412021326/412021326/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412021327",
+            "name": "412021327",
+            "url": "https://zzz.gachabase.net/items/all/412021327/412021327/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "412021328",
+            "name": "412021328",
+            "url": "https://zzz.gachabase.net/items/all/412021328/412021328/beta?lang=en",
             "icon": ""
         },
         {
