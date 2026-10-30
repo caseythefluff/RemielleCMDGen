@@ -398,8 +398,8 @@
         },
         {
             "id": "1661",
-            "name": "Robin",
-            "url": "https://zzz.gachabase.net/agents/1661/robin/beta?lang=en",
+            "name": "1661",
+            "url": "https://zzz.gachabase.net/agents/1661/1661/beta?lang=en",
             "icon": ""
         }
     ],
@@ -544,8 +544,8 @@
         },
         {
             "id": "14166",
-            "name": "Robins Exclusive W Engine",
-            "url": "https://zzz.gachabase.net/w-engines/14166/robins-exclusive-w-engine/beta?lang=en",
+            "name": "14166",
+            "url": "https://zzz.gachabase.net/w-engines/14166/14166/beta?lang=en",
             "icon": ""
         }
     ],
@@ -794,6 +794,12 @@
             "id": "54023",
             "name": "Ariel",
             "url": "https://zzz.gachabase.net/bangboo/54023/ariel/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "54024",
+            "name": "54024",
+            "url": "https://zzz.gachabase.net/bangboo/54024/54024/beta?lang=en",
             "icon": ""
         }
     ],
@@ -2104,8 +2110,8 @@
         },
         {
             "id": "5601",
-            "name": "Agent Focus Sunbringer",
-            "url": "https://zzz.gachabase.net/items/all/5601/agent-focus-sunbringer/beta?lang=en",
+            "name": "5601",
+            "url": "https://zzz.gachabase.net/items/all/5601/5601/beta?lang=en",
             "icon": ""
         },
         {
@@ -2134,8 +2140,8 @@
         },
         {
             "id": "5661",
-            "name": "Agent Focus Robin",
-            "url": "https://zzz.gachabase.net/items/all/5661/agent-focus-robin/beta?lang=en",
+            "name": "5661",
+            "url": "https://zzz.gachabase.net/items/all/5661/5661/beta?lang=en",
             "icon": ""
         },
         {
@@ -2776,8 +2782,8 @@
         },
         {
             "id": "14166",
-            "name": "Robins Exclusive W Engine",
-            "url": "https://zzz.gachabase.net/items/all/14166/robins-exclusive-w-engine/beta?lang=en",
+            "name": "14166",
+            "url": "https://zzz.gachabase.net/items/all/14166/14166/beta?lang=en",
             "icon": ""
         },
         {
@@ -2841,9 +2847,21 @@
             "icon": ""
         },
         {
+            "id": "20133",
+            "name": "20133",
+            "url": "https://zzz.gachabase.net/items/all/20133/20133/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "20138",
             "name": "Potential Silhouette Soldier 0 Anby",
             "url": "https://zzz.gachabase.net/items/all/20138/potential-silhouette-soldier-0-anby/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "20139",
+            "name": "20139",
+            "url": "https://zzz.gachabase.net/items/all/20139/20139/beta?lang=en",
             "icon": ""
         },
         {
@@ -6552,6 +6570,12 @@
             "id": "54023",
             "name": "Ariel",
             "url": "https://zzz.gachabase.net/items/all/54023/ariel/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "54024",
+            "name": "54024",
+            "url": "https://zzz.gachabase.net/items/all/54024/54024/beta?lang=en",
             "icon": ""
         },
         {
@@ -10272,6 +10296,12 @@
             "id": "540230",
             "name": "Ariel Core",
             "url": "https://zzz.gachabase.net/items/all/540230/ariel-core/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "540240",
+            "name": "540240",
+            "url": "https://zzz.gachabase.net/items/all/540240/540240/beta?lang=en",
             "icon": ""
         },
         {
@@ -14754,6 +14784,12 @@
             "id": "1044023",
             "name": "Deployed Ariel",
             "url": "https://zzz.gachabase.net/items/all/1044023/deployed-ariel/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1044024",
+            "name": "1044024",
+            "url": "https://zzz.gachabase.net/items/all/1044024/1044024/beta?lang=en",
             "icon": ""
         },
         {
@@ -24711,12 +24747,6 @@
             "icon": ""
         },
         {
-            "id": "3590002",
-            "name": "3590002",
-            "url": "https://zzz.gachabase.net/items/all/3590002/3590002/beta?lang=en",
-            "icon": ""
-        },
-        {
             "id": "3600001",
             "name": "Bangboo Diet Plan",
             "url": "https://zzz.gachabase.net/items/all/3600001/bangboo-diet-plan/beta?lang=en",
@@ -29211,78 +29241,6 @@
             "icon": ""
         },
         {
-            "id": "4321036",
-            "name": "Vulnerablesunbringer Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321036/vulnerablesunbringer-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321037",
-            "name": "Vulnerablerobin Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321037/vulnerablerobin-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321039",
-            "name": "Fragileseed Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321039/fragileseed-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321040",
-            "name": "Vulnerablevivian Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321040/vulnerablevivian-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321041",
-            "name": "Vulnerablehugo Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321041/vulnerablehugo-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321042",
-            "name": "Vulnerableharumasa Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321042/vulnerableharumasa-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321043",
-            "name": "Vulnerablelighter Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321043/vulnerablelighter-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321044",
-            "name": "Vulnerableqingyi Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321044/vulnerableqingyi-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321045",
-            "name": "Vulnerablecaesar Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321045/vulnerablecaesar-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321046",
-            "name": "Vulnerablezhu Yuan Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321046/vulnerablezhu-yuan-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321047",
-            "name": "Fragilesoldier 11 Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321047/fragilesoldier-11-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4321048",
-            "name": "Vulnerablekoleda Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4321048/vulnerablekoleda-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
             "id": "4322001",
             "name": "Ye Shunguang Frosted Blade Lv60",
             "url": "https://zzz.gachabase.net/items/all/4322001/ye-shunguang-frosted-blade-lv60/beta?lang=en",
@@ -30135,6 +30093,12 @@
             "icon": ""
         },
         {
+            "id": "4334398",
+            "name": "Etheric Phantom Mutant Formicarrier",
+            "url": "https://zzz.gachabase.net/items/all/4334398/etheric-phantom-mutant-formicarrier/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "4334399",
             "name": "Etheric Phantom Mutant Formicarrier",
             "url": "https://zzz.gachabase.net/items/all/4334399/etheric-phantom-mutant-formicarrier/beta?lang=en",
@@ -30150,30 +30114,6 @@
             "id": "4334404",
             "name": "Etheric Phantom Primordial Nightmare",
             "url": "https://zzz.gachabase.net/items/all/4334404/etheric-phantom-primordial-nightmare/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4334406",
-            "name": "Etheric Phantom High Ambitions Mech Transformed",
-            "url": "https://zzz.gachabase.net/items/all/4334406/etheric-phantom-high-ambitions-mech-transformed/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4334505",
-            "name": "Remielles Character Support",
-            "url": "https://zzz.gachabase.net/items/all/4334505/remielles-character-support/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4334506",
-            "name": "Harumasas Character Support",
-            "url": "https://zzz.gachabase.net/items/all/4334506/harumasas-character-support/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4334508",
-            "name": "Sunbringers Character Support",
-            "url": "https://zzz.gachabase.net/items/all/4334508/sunbringers-character-support/beta?lang=en",
             "icon": ""
         },
         {
@@ -30909,78 +30849,6 @@
             "icon": ""
         },
         {
-            "id": "4350336",
-            "name": "Blueprintsunbringer Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350336/blueprintsunbringer-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350337",
-            "name": "Blueprintrobin Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350337/blueprintrobin-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350339",
-            "name": "Blueprintseed Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350339/blueprintseed-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350340",
-            "name": "Blueprintvivian Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350340/blueprintvivian-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350341",
-            "name": "Blueprinthugo Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350341/blueprinthugo-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350342",
-            "name": "Blueprintharumasa Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350342/blueprintharumasa-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350343",
-            "name": "Blueprintlighter Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350343/blueprintlighter-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350344",
-            "name": "Blueprintqingyi Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350344/blueprintqingyi-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350345",
-            "name": "Blueprintcaesar Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350345/blueprintcaesar-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350346",
-            "name": "Blueprintzhu Yuan Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350346/blueprintzhu-yuan-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350347",
-            "name": "Blueprintsoldier 11 Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350347/blueprintsoldier-11-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350348",
-            "name": "Blueprintkoleda Gear Name Lv60",
-            "url": "https://zzz.gachabase.net/items/all/4350348/blueprintkoleda-gear-name-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
             "id": "4350501",
             "name": "Blueprint Ye Shunguang Frosted Blade Lv 60",
             "url": "https://zzz.gachabase.net/items/all/4350501/blueprint-ye-shunguang-frosted-blade-lv-60/beta?lang=en",
@@ -31188,78 +31056,6 @@
             "id": "4350535",
             "name": "Blueprint Burnice Shaker Mixer Lv60",
             "url": "https://zzz.gachabase.net/items/all/4350535/blueprint-burnice-shaker-mixer-lv60/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350536",
-            "name": "Blueprintsunbringer Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350536/blueprintsunbringer-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350537",
-            "name": "Blueprintrobin Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350537/blueprintrobin-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350539",
-            "name": "Blueprintseed Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350539/blueprintseed-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350540",
-            "name": "Blueprintvivian Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350540/blueprintvivian-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350541",
-            "name": "Blueprinthugo Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350541/blueprinthugo-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350542",
-            "name": "Blueprintharumasa Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350542/blueprintharumasa-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350543",
-            "name": "Blueprintlighter Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350543/blueprintlighter-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350544",
-            "name": "Blueprintqingyi Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350544/blueprintqingyi-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350545",
-            "name": "Blueprintcaesar Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350545/blueprintcaesar-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350546",
-            "name": "Blueprintzhu Yuan Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350546/blueprintzhu-yuan-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350547",
-            "name": "Blueprintsoldier 11 Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350547/blueprintsoldier-11-gear-name-lv50/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4350548",
-            "name": "Blueprintkoleda Gear Name Lv50",
-            "url": "https://zzz.gachabase.net/items/all/4350548/blueprintkoleda-gear-name-lv50/beta?lang=en",
             "icon": ""
         },
         {
