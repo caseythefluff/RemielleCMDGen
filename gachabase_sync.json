@@ -385,6 +385,12 @@
             "icon": ""
         },
         {
+            "id": "1606",
+            "name": "Sunbringer",
+            "url": "https://zzz.gachabase.net/agents/1606/sunbringer/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "1611",
             "name": "Claret",
             "url": "https://zzz.gachabase.net/agents/1611/claret/beta?lang=en",
@@ -14014,20 +14020,20 @@
         },
         {
             "id": "1002005",
-            "name": "Placeholder Sunbringer Compatible Resonium",
-            "url": "https://zzz.gachabase.net/items/all/1002005/placeholder-sunbringer-compatible-resonium/beta?lang=en",
+            "name": "Placeholder Sunbringer Matching Resonium",
+            "url": "https://zzz.gachabase.net/items/all/1002005/placeholder-sunbringer-matching-resonium/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1002006",
-            "name": "Placeholder Kafka Synergy Resonium",
-            "url": "https://zzz.gachabase.net/items/all/1002006/placeholder-kafka-synergy-resonium/beta?lang=en",
+            "name": "Placeholder Kafka Affinity Resonium",
+            "url": "https://zzz.gachabase.net/items/all/1002006/placeholder-kafka-affinity-resonium/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1002007",
-            "name": "Placeholder Robin Attuned Resonium",
-            "url": "https://zzz.gachabase.net/items/all/1002007/placeholder-robin-attuned-resonium/beta?lang=en",
+            "name": "Placeholder Robin Compatible Resonium",
+            "url": "https://zzz.gachabase.net/items/all/1002007/placeholder-robin-compatible-resonium/beta?lang=en",
             "icon": ""
         },
         {
@@ -14608,20 +14614,20 @@
         },
         {
             "id": "1003005",
-            "name": "Placeholder Sunbringer Compatible Resonium",
-            "url": "https://zzz.gachabase.net/items/all/1003005/placeholder-sunbringer-compatible-resonium/beta?lang=en",
+            "name": "Placeholder Sunbringer Matching Resonium",
+            "url": "https://zzz.gachabase.net/items/all/1003005/placeholder-sunbringer-matching-resonium/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1003006",
-            "name": "Placeholder Kafka Synergy Resonium",
-            "url": "https://zzz.gachabase.net/items/all/1003006/placeholder-kafka-synergy-resonium/beta?lang=en",
+            "name": "Placeholder Kafka Affinity Resonium",
+            "url": "https://zzz.gachabase.net/items/all/1003006/placeholder-kafka-affinity-resonium/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1003007",
-            "name": "Placeholder Robin Attuned Resonium",
-            "url": "https://zzz.gachabase.net/items/all/1003007/placeholder-robin-attuned-resonium/beta?lang=en",
+            "name": "Placeholder Robin Compatible Resonium",
+            "url": "https://zzz.gachabase.net/items/all/1003007/placeholder-robin-compatible-resonium/beta?lang=en",
             "icon": ""
         },
         {
@@ -20254,20 +20260,20 @@
         },
         {
             "id": "1350351",
-            "name": "Kafka Gun Blade Medley",
-            "url": "https://zzz.gachabase.net/items/all/1350351/kafka-gun-blade-medley/beta?lang=en",
+            "name": "Placeholder Kafka Gear 1",
+            "url": "https://zzz.gachabase.net/items/all/1350351/placeholder-kafka-gear-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350352",
-            "name": "Anomalous Echoes",
-            "url": "https://zzz.gachabase.net/items/all/1350352/anomalous-echoes/beta?lang=en",
+            "name": "Placeholder Kafka Gear 2",
+            "url": "https://zzz.gachabase.net/items/all/1350352/placeholder-kafka-gear-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350353",
-            "name": "Lightning Lash",
-            "url": "https://zzz.gachabase.net/items/all/1350353/lightning-lash/beta?lang=en",
+            "name": "Placeholder Kafka Gear 3",
+            "url": "https://zzz.gachabase.net/items/all/1350353/placeholder-kafka-gear-3/beta?lang=en",
             "icon": ""
         },
         {
@@ -23790,6 +23796,12 @@
             "id": "3116031",
             "name": "3116031",
             "url": "https://zzz.gachabase.net/items/all/3116031/3116031/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3116060",
+            "name": "3116060",
+            "url": "https://zzz.gachabase.net/items/all/3116060/3116060/beta?lang=en",
             "icon": ""
         },
         {
