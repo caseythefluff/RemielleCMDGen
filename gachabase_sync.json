@@ -748,14 +748,14 @@
         },
         {
             "id": "14165",
-            "name": "Elegy Of The Molted Spider",
-            "url": "https://zzz.gachabase.net/w-engines/14165/elegy-of-the-molted-spider/beta?lang=en",
+            "name": "Requiem Araneae",
+            "url": "https://zzz.gachabase.net/w-engines/14165/requiem-araneae/beta?lang=en",
             "icon": ""
         },
         {
             "id": "14166",
-            "name": "Starlit Chroma",
-            "url": "https://zzz.gachabase.net/w-engines/14166/starlit-chroma/beta?lang=en",
+            "name": "Iridescent Starsong",
+            "url": "https://zzz.gachabase.net/w-engines/14166/iridescent-starsong/beta?lang=en",
             "icon": ""
         }
     ],
@@ -1014,8 +1014,8 @@
         },
         {
             "id": "54025",
-            "name": "Pam",
-            "url": "https://zzz.gachabase.net/bangboo/54025/pam/beta?lang=en",
+            "name": "Pom Pom",
+            "url": "https://zzz.gachabase.net/bangboo/54025/pom-pom/beta?lang=en",
             "icon": ""
         }
     ],
@@ -1202,14 +1202,14 @@
         },
         {
             "id": "34300",
-            "name": "Rank Stele",
-            "url": "https://zzz.gachabase.net/drive-discs/34300/rank-stele/beta?lang=en",
+            "name": "Monument Of The Star",
+            "url": "https://zzz.gachabase.net/drive-discs/34300/monument-of-the-star/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34400",
-            "name": "Crimson Wing Nocturne",
-            "url": "https://zzz.gachabase.net/drive-discs/34400/crimson-wing-nocturne/beta?lang=en",
+            "name": "Bloodwing Nocturne",
+            "url": "https://zzz.gachabase.net/drive-discs/34400/bloodwing-nocturne/beta?lang=en",
             "icon": ""
         }
     ],
@@ -1864,8 +1864,8 @@
         },
         {
             "id": "464",
-            "name": "Season Coins",
-            "url": "https://zzz.gachabase.net/items/all/464/season-coins/beta?lang=en",
+            "name": "464",
+            "url": "https://zzz.gachabase.net/items/all/464/464/beta?lang=en",
             "icon": ""
         },
         {
@@ -1876,26 +1876,26 @@
         },
         {
             "id": "466",
-            "name": "Action Preview",
-            "url": "https://zzz.gachabase.net/items/all/466/action-preview/beta?lang=en",
+            "name": "Action Reel",
+            "url": "https://zzz.gachabase.net/items/all/466/action-reel/beta?lang=en",
             "icon": ""
         },
         {
             "id": "467",
-            "name": "467",
-            "url": "https://zzz.gachabase.net/items/all/467/467/beta?lang=en",
+            "name": "Bid Coins",
+            "url": "https://zzz.gachabase.net/items/all/467/bid-coins/beta?lang=en",
             "icon": ""
         },
         {
             "id": "468",
-            "name": "468",
-            "url": "https://zzz.gachabase.net/items/all/468/468/beta?lang=en",
+            "name": "Data Credits",
+            "url": "https://zzz.gachabase.net/items/all/468/data-credits/beta?lang=en",
             "icon": ""
         },
         {
             "id": "471",
-            "name": "Seal Of Contract",
-            "url": "https://zzz.gachabase.net/items/all/471/seal-of-contract/beta?lang=en",
+            "name": "Contractual Signet",
+            "url": "https://zzz.gachabase.net/items/all/471/contractual-signet/beta?lang=en",
             "icon": ""
         },
         {
@@ -2386,8 +2386,8 @@
         },
         {
             "id": "5601",
-            "name": "Agent Focus Sunbringer",
-            "url": "https://zzz.gachabase.net/items/all/5601/agent-focus-sunbringer/beta?lang=en",
+            "name": "5601",
+            "url": "https://zzz.gachabase.net/items/all/5601/5601/beta?lang=en",
             "icon": ""
         },
         {
@@ -2416,14 +2416,14 @@
         },
         {
             "id": "5651",
-            "name": "Agent Focus Kafka",
-            "url": "https://zzz.gachabase.net/items/all/5651/agent-focus-kafka/beta?lang=en",
+            "name": "5651",
+            "url": "https://zzz.gachabase.net/items/all/5651/5651/beta?lang=en",
             "icon": ""
         },
         {
             "id": "5661",
-            "name": "Agent Focus Robin",
-            "url": "https://zzz.gachabase.net/items/all/5661/agent-focus-robin/beta?lang=en",
+            "name": "5661",
+            "url": "https://zzz.gachabase.net/items/all/5661/5661/beta?lang=en",
             "icon": ""
         },
         {
@@ -3070,14 +3070,14 @@
         },
         {
             "id": "14165",
-            "name": "Elegy Of The Molted Spider",
-            "url": "https://zzz.gachabase.net/items/all/14165/elegy-of-the-molted-spider/beta?lang=en",
+            "name": "Requiem Araneae",
+            "url": "https://zzz.gachabase.net/items/all/14165/requiem-araneae/beta?lang=en",
             "icon": ""
         },
         {
             "id": "14166",
-            "name": "Starlit Chroma",
-            "url": "https://zzz.gachabase.net/items/all/14166/starlit-chroma/beta?lang=en",
+            "name": "Iridescent Starsong",
+            "url": "https://zzz.gachabase.net/items/all/14166/iridescent-starsong/beta?lang=en",
             "icon": ""
         },
         {
@@ -6400,218 +6400,218 @@
         },
         {
             "id": "34321",
-            "name": "Rank Stele 1",
-            "url": "https://zzz.gachabase.net/items/all/34321/rank-stele-1/beta?lang=en",
+            "name": "Monument Of The Star 1",
+            "url": "https://zzz.gachabase.net/items/all/34321/monument-of-the-star-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34322",
-            "name": "Rank Stele 2",
-            "url": "https://zzz.gachabase.net/items/all/34322/rank-stele-2/beta?lang=en",
+            "name": "Monument Of The Star 2",
+            "url": "https://zzz.gachabase.net/items/all/34322/monument-of-the-star-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34323",
-            "name": "Rank Stele 3",
-            "url": "https://zzz.gachabase.net/items/all/34323/rank-stele-3/beta?lang=en",
+            "name": "Monument Of The Star 3",
+            "url": "https://zzz.gachabase.net/items/all/34323/monument-of-the-star-3/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34324",
-            "name": "Rank Stele 4",
-            "url": "https://zzz.gachabase.net/items/all/34324/rank-stele-4/beta?lang=en",
+            "name": "Monument Of The Star 4",
+            "url": "https://zzz.gachabase.net/items/all/34324/monument-of-the-star-4/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34325",
-            "name": "Rank Stele 5",
-            "url": "https://zzz.gachabase.net/items/all/34325/rank-stele-5/beta?lang=en",
+            "name": "Monument Of The Star 5",
+            "url": "https://zzz.gachabase.net/items/all/34325/monument-of-the-star-5/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34326",
-            "name": "Rank Stele 6",
-            "url": "https://zzz.gachabase.net/items/all/34326/rank-stele-6/beta?lang=en",
+            "name": "Monument Of The Star 6",
+            "url": "https://zzz.gachabase.net/items/all/34326/monument-of-the-star-6/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34331",
-            "name": "Rank Stele 1",
-            "url": "https://zzz.gachabase.net/items/all/34331/rank-stele-1/beta?lang=en",
+            "name": "Monument Of The Star 1",
+            "url": "https://zzz.gachabase.net/items/all/34331/monument-of-the-star-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34332",
-            "name": "Rank Stele 2",
-            "url": "https://zzz.gachabase.net/items/all/34332/rank-stele-2/beta?lang=en",
+            "name": "Monument Of The Star 2",
+            "url": "https://zzz.gachabase.net/items/all/34332/monument-of-the-star-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34333",
-            "name": "Rank Stele 3",
-            "url": "https://zzz.gachabase.net/items/all/34333/rank-stele-3/beta?lang=en",
+            "name": "Monument Of The Star 3",
+            "url": "https://zzz.gachabase.net/items/all/34333/monument-of-the-star-3/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34334",
-            "name": "Rank Stele 4",
-            "url": "https://zzz.gachabase.net/items/all/34334/rank-stele-4/beta?lang=en",
+            "name": "Monument Of The Star 4",
+            "url": "https://zzz.gachabase.net/items/all/34334/monument-of-the-star-4/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34335",
-            "name": "Rank Stele 5",
-            "url": "https://zzz.gachabase.net/items/all/34335/rank-stele-5/beta?lang=en",
+            "name": "Monument Of The Star 5",
+            "url": "https://zzz.gachabase.net/items/all/34335/monument-of-the-star-5/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34336",
-            "name": "Rank Stele 6",
-            "url": "https://zzz.gachabase.net/items/all/34336/rank-stele-6/beta?lang=en",
+            "name": "Monument Of The Star 6",
+            "url": "https://zzz.gachabase.net/items/all/34336/monument-of-the-star-6/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34341",
-            "name": "Rank Stele 1",
-            "url": "https://zzz.gachabase.net/items/all/34341/rank-stele-1/beta?lang=en",
+            "name": "Monument Of The Star 1",
+            "url": "https://zzz.gachabase.net/items/all/34341/monument-of-the-star-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34342",
-            "name": "Rank Stele 2",
-            "url": "https://zzz.gachabase.net/items/all/34342/rank-stele-2/beta?lang=en",
+            "name": "Monument Of The Star 2",
+            "url": "https://zzz.gachabase.net/items/all/34342/monument-of-the-star-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34343",
-            "name": "Rank Stele 3",
-            "url": "https://zzz.gachabase.net/items/all/34343/rank-stele-3/beta?lang=en",
+            "name": "Monument Of The Star 3",
+            "url": "https://zzz.gachabase.net/items/all/34343/monument-of-the-star-3/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34344",
-            "name": "Rank Stele 4",
-            "url": "https://zzz.gachabase.net/items/all/34344/rank-stele-4/beta?lang=en",
+            "name": "Monument Of The Star 4",
+            "url": "https://zzz.gachabase.net/items/all/34344/monument-of-the-star-4/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34345",
-            "name": "Rank Stele 5",
-            "url": "https://zzz.gachabase.net/items/all/34345/rank-stele-5/beta?lang=en",
+            "name": "Monument Of The Star 5",
+            "url": "https://zzz.gachabase.net/items/all/34345/monument-of-the-star-5/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34346",
-            "name": "Rank Stele 6",
-            "url": "https://zzz.gachabase.net/items/all/34346/rank-stele-6/beta?lang=en",
+            "name": "Monument Of The Star 6",
+            "url": "https://zzz.gachabase.net/items/all/34346/monument-of-the-star-6/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34421",
-            "name": "Crimson Wing Nocturne 1",
-            "url": "https://zzz.gachabase.net/items/all/34421/crimson-wing-nocturne-1/beta?lang=en",
+            "name": "Bloodwing Nocturne 1",
+            "url": "https://zzz.gachabase.net/items/all/34421/bloodwing-nocturne-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34422",
-            "name": "Crimson Wing Nocturne 2",
-            "url": "https://zzz.gachabase.net/items/all/34422/crimson-wing-nocturne-2/beta?lang=en",
+            "name": "Bloodwing Nocturne 2",
+            "url": "https://zzz.gachabase.net/items/all/34422/bloodwing-nocturne-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34423",
-            "name": "Crimson Wing Nocturne 3",
-            "url": "https://zzz.gachabase.net/items/all/34423/crimson-wing-nocturne-3/beta?lang=en",
+            "name": "Bloodwing Nocturne 3",
+            "url": "https://zzz.gachabase.net/items/all/34423/bloodwing-nocturne-3/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34424",
-            "name": "Red Winged Nocturne 4",
-            "url": "https://zzz.gachabase.net/items/all/34424/red-winged-nocturne-4/beta?lang=en",
+            "name": "Bloodwing Nocturne 4",
+            "url": "https://zzz.gachabase.net/items/all/34424/bloodwing-nocturne-4/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34425",
-            "name": "Crimson Wing Nocturne 5",
-            "url": "https://zzz.gachabase.net/items/all/34425/crimson-wing-nocturne-5/beta?lang=en",
+            "name": "Bloodwing Nocturne 5",
+            "url": "https://zzz.gachabase.net/items/all/34425/bloodwing-nocturne-5/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34426",
-            "name": "Crimson Wing Nocturne 6",
-            "url": "https://zzz.gachabase.net/items/all/34426/crimson-wing-nocturne-6/beta?lang=en",
+            "name": "Bloodwing Nocturne 6",
+            "url": "https://zzz.gachabase.net/items/all/34426/bloodwing-nocturne-6/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34431",
-            "name": "Crimson Wing Nocturne 1",
-            "url": "https://zzz.gachabase.net/items/all/34431/crimson-wing-nocturne-1/beta?lang=en",
+            "name": "Bloodwing Nocturne 1",
+            "url": "https://zzz.gachabase.net/items/all/34431/bloodwing-nocturne-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34432",
-            "name": "Crimson Wing Nocturne 2",
-            "url": "https://zzz.gachabase.net/items/all/34432/crimson-wing-nocturne-2/beta?lang=en",
+            "name": "Bloodwing Nocturne 2",
+            "url": "https://zzz.gachabase.net/items/all/34432/bloodwing-nocturne-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34433",
-            "name": "Crimson Wing Nocturne 3",
-            "url": "https://zzz.gachabase.net/items/all/34433/crimson-wing-nocturne-3/beta?lang=en",
+            "name": "Bloodwing Nocturne 3",
+            "url": "https://zzz.gachabase.net/items/all/34433/bloodwing-nocturne-3/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34434",
-            "name": "Red Winged Nocturne 4",
-            "url": "https://zzz.gachabase.net/items/all/34434/red-winged-nocturne-4/beta?lang=en",
+            "name": "Bloodwing Nocturne 4",
+            "url": "https://zzz.gachabase.net/items/all/34434/bloodwing-nocturne-4/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34435",
-            "name": "Crimson Wing Nocturne 5",
-            "url": "https://zzz.gachabase.net/items/all/34435/crimson-wing-nocturne-5/beta?lang=en",
+            "name": "Bloodwing Nocturne 5",
+            "url": "https://zzz.gachabase.net/items/all/34435/bloodwing-nocturne-5/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34436",
-            "name": "Crimson Wing Nocturne 6",
-            "url": "https://zzz.gachabase.net/items/all/34436/crimson-wing-nocturne-6/beta?lang=en",
+            "name": "Bloodwing Nocturne 6",
+            "url": "https://zzz.gachabase.net/items/all/34436/bloodwing-nocturne-6/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34441",
-            "name": "Crimson Wing Nocturne 1",
-            "url": "https://zzz.gachabase.net/items/all/34441/crimson-wing-nocturne-1/beta?lang=en",
+            "name": "Bloodwing Nocturne 1",
+            "url": "https://zzz.gachabase.net/items/all/34441/bloodwing-nocturne-1/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34442",
-            "name": "Crimson Wing Nocturne 2",
-            "url": "https://zzz.gachabase.net/items/all/34442/crimson-wing-nocturne-2/beta?lang=en",
+            "name": "Bloodwing Nocturne 2",
+            "url": "https://zzz.gachabase.net/items/all/34442/bloodwing-nocturne-2/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34443",
-            "name": "Crimson Wing Nocturne 3",
-            "url": "https://zzz.gachabase.net/items/all/34443/crimson-wing-nocturne-3/beta?lang=en",
+            "name": "Bloodwing Nocturne 3",
+            "url": "https://zzz.gachabase.net/items/all/34443/bloodwing-nocturne-3/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34444",
-            "name": "Red Winged Nocturne 4",
-            "url": "https://zzz.gachabase.net/items/all/34444/red-winged-nocturne-4/beta?lang=en",
+            "name": "Bloodwing Nocturne 4",
+            "url": "https://zzz.gachabase.net/items/all/34444/bloodwing-nocturne-4/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34445",
-            "name": "Crimson Wing Nocturne 5",
-            "url": "https://zzz.gachabase.net/items/all/34445/crimson-wing-nocturne-5/beta?lang=en",
+            "name": "Bloodwing Nocturne 5",
+            "url": "https://zzz.gachabase.net/items/all/34445/bloodwing-nocturne-5/beta?lang=en",
             "icon": ""
         },
         {
             "id": "34446",
-            "name": "Crimson Wing Nocturne 6",
-            "url": "https://zzz.gachabase.net/items/all/34446/crimson-wing-nocturne-6/beta?lang=en",
+            "name": "Bloodwing Nocturne 6",
+            "url": "https://zzz.gachabase.net/items/all/34446/bloodwing-nocturne-6/beta?lang=en",
             "icon": ""
         },
         {
@@ -6874,8 +6874,8 @@
         },
         {
             "id": "54025",
-            "name": "54025",
-            "url": "https://zzz.gachabase.net/items/all/54025/54025/beta?lang=en",
+            "name": "Pom Pom",
+            "url": "https://zzz.gachabase.net/items/all/54025/pom-pom/beta?lang=en",
             "icon": ""
         },
         {
@@ -7408,8 +7408,8 @@
         },
         {
             "id": "110012",
-            "name": "Doomsun Edge",
-            "url": "https://zzz.gachabase.net/items/all/110012/doomsun-edge/beta?lang=en",
+            "name": "Doomsday Blade",
+            "url": "https://zzz.gachabase.net/items/all/110012/doomsday-blade/beta?lang=en",
             "icon": ""
         },
         {
@@ -7510,8 +7510,8 @@
         },
         {
             "id": "110517",
-            "name": "Higher Dimensional Data Tattered Veil Of Nightmares",
-            "url": "https://zzz.gachabase.net/items/all/110517/higher-dimensional-data-tattered-veil-of-nightmares/beta?lang=en",
+            "name": "Higher Dimensional Data Tattered Dreamveil",
+            "url": "https://zzz.gachabase.net/items/all/110517/higher-dimensional-data-tattered-dreamveil/beta?lang=en",
             "icon": ""
         },
         {
@@ -10600,14 +10600,14 @@
         },
         {
             "id": "540240",
-            "name": "540240",
-            "url": "https://zzz.gachabase.net/items/all/540240/540240/beta?lang=en",
+            "name": "Sleepwalkerboo Core",
+            "url": "https://zzz.gachabase.net/items/all/540240/sleepwalkerboo-core/beta?lang=en",
             "icon": ""
         },
         {
             "id": "540250",
-            "name": "Pam Core",
-            "url": "https://zzz.gachabase.net/items/all/540250/pam-core/beta?lang=en",
+            "name": "Pom Pom Core",
+            "url": "https://zzz.gachabase.net/items/all/540250/pom-pom-core/beta?lang=en",
             "icon": ""
         },
         {
@@ -11788,38 +11788,38 @@
         },
         {
             "id": "834320",
-            "name": "Rank Stele",
-            "url": "https://zzz.gachabase.net/items/all/834320/rank-stele/beta?lang=en",
+            "name": "Monument Of The Star",
+            "url": "https://zzz.gachabase.net/items/all/834320/monument-of-the-star/beta?lang=en",
             "icon": ""
         },
         {
             "id": "834330",
-            "name": "Rank Stele",
-            "url": "https://zzz.gachabase.net/items/all/834330/rank-stele/beta?lang=en",
+            "name": "Monument Of The Star",
+            "url": "https://zzz.gachabase.net/items/all/834330/monument-of-the-star/beta?lang=en",
             "icon": ""
         },
         {
             "id": "834340",
-            "name": "Rank Stele",
-            "url": "https://zzz.gachabase.net/items/all/834340/rank-stele/beta?lang=en",
+            "name": "Monument Of The Star",
+            "url": "https://zzz.gachabase.net/items/all/834340/monument-of-the-star/beta?lang=en",
             "icon": ""
         },
         {
             "id": "834420",
-            "name": "Crimson Wing Nocturne",
-            "url": "https://zzz.gachabase.net/items/all/834420/crimson-wing-nocturne/beta?lang=en",
+            "name": "Bloodwing Nocturne",
+            "url": "https://zzz.gachabase.net/items/all/834420/bloodwing-nocturne/beta?lang=en",
             "icon": ""
         },
         {
             "id": "834430",
-            "name": "Crimson Wing Nocturne",
-            "url": "https://zzz.gachabase.net/items/all/834430/crimson-wing-nocturne/beta?lang=en",
+            "name": "Bloodwing Nocturne",
+            "url": "https://zzz.gachabase.net/items/all/834430/bloodwing-nocturne/beta?lang=en",
             "icon": ""
         },
         {
             "id": "834440",
-            "name": "Crimson Wing Nocturne",
-            "url": "https://zzz.gachabase.net/items/all/834440/crimson-wing-nocturne/beta?lang=en",
+            "name": "Bloodwing Nocturne",
+            "url": "https://zzz.gachabase.net/items/all/834440/bloodwing-nocturne/beta?lang=en",
             "icon": ""
         },
         {
@@ -14026,20 +14026,20 @@
         },
         {
             "id": "1002005",
-            "name": "Wherever The Firelight Reaches",
-            "url": "https://zzz.gachabase.net/items/all/1002005/wherever-the-firelight-reaches/beta?lang=en",
+            "name": "Where The Flames Shine",
+            "url": "https://zzz.gachabase.net/items/all/1002005/where-the-flames-shine/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1002006",
-            "name": "Hunters Longblade",
-            "url": "https://zzz.gachabase.net/items/all/1002006/hunters-longblade/beta?lang=en",
+            "name": "Hunters Long Blade",
+            "url": "https://zzz.gachabase.net/items/all/1002006/hunters-long-blade/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1002007",
-            "name": "Harmonic Sync",
-            "url": "https://zzz.gachabase.net/items/all/1002007/harmonic-sync/beta?lang=en",
+            "name": "Harmonic Resonance",
+            "url": "https://zzz.gachabase.net/items/all/1002007/harmonic-resonance/beta?lang=en",
             "icon": ""
         },
         {
@@ -14620,20 +14620,20 @@
         },
         {
             "id": "1003005",
-            "name": "Wherever The Firelight Reaches",
-            "url": "https://zzz.gachabase.net/items/all/1003005/wherever-the-firelight-reaches/beta?lang=en",
+            "name": "Where The Flames Shine",
+            "url": "https://zzz.gachabase.net/items/all/1003005/where-the-flames-shine/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1003006",
-            "name": "Hunters Longblade",
-            "url": "https://zzz.gachabase.net/items/all/1003006/hunters-longblade/beta?lang=en",
+            "name": "Hunters Long Blade",
+            "url": "https://zzz.gachabase.net/items/all/1003006/hunters-long-blade/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1003007",
-            "name": "Harmonic Sync",
-            "url": "https://zzz.gachabase.net/items/all/1003007/harmonic-sync/beta?lang=en",
+            "name": "Harmonic Resonance",
+            "url": "https://zzz.gachabase.net/items/all/1003007/harmonic-resonance/beta?lang=en",
             "icon": ""
         },
         {
@@ -15136,8 +15136,8 @@
         },
         {
             "id": "1044025",
-            "name": "Deployed Pam",
-            "url": "https://zzz.gachabase.net/items/all/1044025/deployed-pam/beta?lang=en",
+            "name": "Deployed Pom Pom",
+            "url": "https://zzz.gachabase.net/items/all/1044025/deployed-pom-pom/beta?lang=en",
             "icon": ""
         },
         {
@@ -20272,50 +20272,50 @@
         },
         {
             "id": "1350351",
-            "name": "Kafka Endless Shadowhunt",
-            "url": "https://zzz.gachabase.net/items/all/1350351/kafka-endless-shadowhunt/beta?lang=en",
+            "name": "Kafka Endless Shadow Hunt",
+            "url": "https://zzz.gachabase.net/items/all/1350351/kafka-endless-shadow-hunt/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350352",
-            "name": "Kafka Crimson Night Revelry",
-            "url": "https://zzz.gachabase.net/items/all/1350352/kafka-crimson-night-revelry/beta?lang=en",
+            "name": "Kafka Crimson Night Reverie",
+            "url": "https://zzz.gachabase.net/items/all/1350352/kafka-crimson-night-reverie/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350353",
-            "name": "Kafka Gentle Domination",
-            "url": "https://zzz.gachabase.net/items/all/1350353/kafka-gentle-domination/beta?lang=en",
+            "name": "Kafka Gentle Dominance",
+            "url": "https://zzz.gachabase.net/items/all/1350353/kafka-gentle-dominance/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350361",
-            "name": "Heartlight As A Banner",
-            "url": "https://zzz.gachabase.net/items/all/1350361/heartlight-as-a-banner/beta?lang=en",
+            "name": "Heart As A Beacon",
+            "url": "https://zzz.gachabase.net/items/all/1350361/heart-as-a-beacon/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350362",
-            "name": "Forge Wishes Into Blades",
-            "url": "https://zzz.gachabase.net/items/all/1350362/forge-wishes-into-blades/beta?lang=en",
+            "name": "Wishes Forged Into A Blade",
+            "url": "https://zzz.gachabase.net/items/all/1350362/wishes-forged-into-a-blade/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350363",
-            "name": "Unbreakable Will",
-            "url": "https://zzz.gachabase.net/items/all/1350363/unbreakable-will/beta?lang=en",
+            "name": "Unyielding Will",
+            "url": "https://zzz.gachabase.net/items/all/1350363/unyielding-will/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350371",
-            "name": "Galaxy Aria",
-            "url": "https://zzz.gachabase.net/items/all/1350371/galaxy-aria/beta?lang=en",
+            "name": "Stellar Aria",
+            "url": "https://zzz.gachabase.net/items/all/1350371/stellar-aria/beta?lang=en",
             "icon": ""
         },
         {
             "id": "1350372",
-            "name": "Dazzling Night Concerto",
-            "url": "https://zzz.gachabase.net/items/all/1350372/dazzling-night-concerto/beta?lang=en",
+            "name": "Radiant Night Concerto",
+            "url": "https://zzz.gachabase.net/items/all/1350372/radiant-night-concerto/beta?lang=en",
             "icon": ""
         },
         {
@@ -22101,6 +22101,54 @@
             "icon": ""
         },
         {
+            "id": "1358043",
+            "name": "1358043",
+            "url": "https://zzz.gachabase.net/items/all/1358043/1358043/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358044",
+            "name": "1358044",
+            "url": "https://zzz.gachabase.net/items/all/1358044/1358044/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358045",
+            "name": "1358045",
+            "url": "https://zzz.gachabase.net/items/all/1358045/1358045/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358046",
+            "name": "1358046",
+            "url": "https://zzz.gachabase.net/items/all/1358046/1358046/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358047",
+            "name": "1358047",
+            "url": "https://zzz.gachabase.net/items/all/1358047/1358047/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358048",
+            "name": "1358048",
+            "url": "https://zzz.gachabase.net/items/all/1358048/1358048/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358049",
+            "name": "1358049",
+            "url": "https://zzz.gachabase.net/items/all/1358049/1358049/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "1358050",
+            "name": "1358050",
+            "url": "https://zzz.gachabase.net/items/all/1358050/1358050/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "1359001",
             "name": "Default Theme",
             "url": "https://zzz.gachabase.net/items/all/1359001/default-theme/beta?lang=en",
@@ -23787,6 +23835,12 @@
             "icon": ""
         },
         {
+            "id": "3116011",
+            "name": "3116011",
+            "url": "https://zzz.gachabase.net/items/all/3116011/3116011/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "3116020",
             "name": "3116020",
             "url": "https://zzz.gachabase.net/items/all/3116020/3116020/beta?lang=en",
@@ -23814,6 +23868,18 @@
             "id": "3116060",
             "name": "3116060",
             "url": "https://zzz.gachabase.net/items/all/3116060/3116060/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3116061",
+            "name": "3116061",
+            "url": "https://zzz.gachabase.net/items/all/3116061/3116061/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3116091",
+            "name": "3116091",
+            "url": "https://zzz.gachabase.net/items/all/3116091/3116091/beta?lang=en",
             "icon": ""
         },
         {
@@ -23868,6 +23934,12 @@
             "id": "3116610",
             "name": "3116610",
             "url": "https://zzz.gachabase.net/items/all/3116610/3116610/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3116611",
+            "name": "3116611",
+            "url": "https://zzz.gachabase.net/items/all/3116611/3116611/beta?lang=en",
             "icon": ""
         },
         {
@@ -24214,8 +24286,8 @@
         },
         {
             "id": "3202021",
-            "name": "Bangboo Knight Has Arrived",
-            "url": "https://zzz.gachabase.net/items/all/3202021/bangboo-knight-has-arrived/beta?lang=en",
+            "name": "Bangboo Knight Reporting",
+            "url": "https://zzz.gachabase.net/items/all/3202021/bangboo-knight-reporting/beta?lang=en",
             "icon": ""
         },
         {
@@ -24670,8 +24742,8 @@
         },
         {
             "id": "3231661",
-            "name": "Agent Profile Picture Robin",
-            "url": "https://zzz.gachabase.net/items/all/3231661/agent-profile-picture-robin/beta?lang=en",
+            "name": "Agent Avatar Robin",
+            "url": "https://zzz.gachabase.net/items/all/3231661/agent-avatar-robin/beta?lang=en",
             "icon": ""
         },
         {
@@ -26218,8 +26290,8 @@
         },
         {
             "id": "3510062",
-            "name": "Dynamic Wallpaper 0",
-            "url": "https://zzz.gachabase.net/items/all/3510062/dynamic-wallpaper-0/beta?lang=en",
+            "name": "3510062",
+            "url": "https://zzz.gachabase.net/items/all/3510062/3510062/beta?lang=en",
             "icon": ""
         },
         {
@@ -26475,6 +26547,12 @@
             "icon": ""
         },
         {
+            "id": "3700002",
+            "name": "3700002",
+            "url": "https://zzz.gachabase.net/items/all/3700002/3700002/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "3700106",
             "name": "Fries Lamp",
             "url": "https://zzz.gachabase.net/items/all/3700106/fries-lamp/beta?lang=en",
@@ -26667,9 +26745,21 @@
             "icon": ""
         },
         {
+            "id": "3700257",
+            "name": "3700257",
+            "url": "https://zzz.gachabase.net/items/all/3700257/3700257/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "3710001",
             "name": "Focus View One Shot Kill",
             "url": "https://zzz.gachabase.net/items/all/3710001/focus-view-one-shot-kill/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3710002",
+            "name": "3710002",
+            "url": "https://zzz.gachabase.net/items/all/3710002/3710002/beta?lang=en",
             "icon": ""
         },
         {
@@ -26682,6 +26772,18 @@
             "id": "3720002",
             "name": "Emoticon Ace",
             "url": "https://zzz.gachabase.net/items/all/3720002/emoticon-ace/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3720003",
+            "name": "Emoticon S",
+            "url": "https://zzz.gachabase.net/items/all/3720003/emoticon-s/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "3720004",
+            "name": "Emoticon Win",
+            "url": "https://zzz.gachabase.net/items/all/3720004/emoticon-win/beta?lang=en",
             "icon": ""
         },
         {
@@ -31449,24 +31551,6 @@
             "icon": ""
         },
         {
-            "id": "4300407",
-            "name": "Material B Area Exclusive7 Lower Level",
-            "url": "https://zzz.gachabase.net/items/all/4300407/material-b-area-exclusive7-lower-level/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4300408",
-            "name": "Material B Area Exclusive8 Mid Level Area",
-            "url": "https://zzz.gachabase.net/items/all/4300408/material-b-area-exclusive8-mid-level-area/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4300409",
-            "name": "Material B Area Exclusive 9 Upper Level Mid Level Test Zone",
-            "url": "https://zzz.gachabase.net/items/all/4300409/material-b-area-exclusive-9-upper-level-mid-level-test-zone/beta?lang=en",
-            "icon": ""
-        },
-        {
             "id": "4300421",
             "name": "High Energy Explosive",
             "url": "https://zzz.gachabase.net/items/all/4300421/high-energy-explosive/beta?lang=en",
@@ -31500,24 +31584,6 @@
             "id": "4300426",
             "name": "Multilayer Circuit Board",
             "url": "https://zzz.gachabase.net/items/all/4300426/multilayer-circuit-board/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4300427",
-            "name": "Material A Area Exclusive7 Lower Level",
-            "url": "https://zzz.gachabase.net/items/all/4300427/material-a-area-exclusive7-lower-level/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4300428",
-            "name": "Material A Area Exclusive8 Mid Level Area",
-            "url": "https://zzz.gachabase.net/items/all/4300428/material-a-area-exclusive8-mid-level-area/beta?lang=en",
-            "icon": ""
-        },
-        {
-            "id": "4300429",
-            "name": "Material A Area Exclusive 9 Upper Level Mid Level Test Area",
-            "url": "https://zzz.gachabase.net/items/all/4300429/material-a-area-exclusive-9-upper-level-mid-level-test-area/beta?lang=en",
             "icon": ""
         },
         {
@@ -31558,20 +31624,20 @@
         },
         {
             "id": "4300457",
-            "name": "Material S Area Exclusive 7 Lower Level",
-            "url": "https://zzz.gachabase.net/items/all/4300457/material-s-area-exclusive-7-lower-level/beta?lang=en",
+            "name": "4300457",
+            "url": "https://zzz.gachabase.net/items/all/4300457/4300457/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4300458",
-            "name": "Material S Area Exclusive 8 Mid Level Area",
-            "url": "https://zzz.gachabase.net/items/all/4300458/material-s-area-exclusive-8-mid-level-area/beta?lang=en",
+            "name": "4300458",
+            "url": "https://zzz.gachabase.net/items/all/4300458/4300458/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4300459",
-            "name": "Material S Area Exclusive 9 Upper Level Mid Level Testing Area",
-            "url": "https://zzz.gachabase.net/items/all/4300459/material-s-area-exclusive-9-upper-level-mid-level-testing-area/beta?lang=en",
+            "name": "4300459",
+            "url": "https://zzz.gachabase.net/items/all/4300459/4300459/beta?lang=en",
             "icon": ""
         },
         {
@@ -32326,68 +32392,68 @@
         },
         {
             "id": "4321036",
-            "name": "Vulnerable Sunbringer Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321036/vulnerable-sunbringer-gear-name-lv-50/beta?lang=en",
+            "name": "4321036",
+            "url": "https://zzz.gachabase.net/items/all/4321036/4321036/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321037",
-            "name": "Vulnerable Robin Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321037/vulnerable-robin-gear-name-lv-50/beta?lang=en",
+            "name": "4321037",
+            "url": "https://zzz.gachabase.net/items/all/4321037/4321037/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321038",
-            "name": "Vulnerable Kafka Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321038/vulnerable-kafka-gear-name-lv-50/beta?lang=en",
+            "name": "4321038",
+            "url": "https://zzz.gachabase.net/items/all/4321038/4321038/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321039",
-            "name": "Vulnerable Seed Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321039/vulnerable-seed-gear-name-lv-50/beta?lang=en",
+            "name": "4321039",
+            "url": "https://zzz.gachabase.net/items/all/4321039/4321039/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321040",
-            "name": "Vulnerable Vivian Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321040/vulnerable-vivian-gear-name-lv-50/beta?lang=en",
+            "name": "4321040",
+            "url": "https://zzz.gachabase.net/items/all/4321040/4321040/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321041",
-            "name": "Vulnerable Hugo Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321041/vulnerable-hugo-gear-name-lv-50/beta?lang=en",
+            "name": "4321041",
+            "url": "https://zzz.gachabase.net/items/all/4321041/4321041/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321042",
-            "name": "Vulnerable Harumasa Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321042/vulnerable-harumasa-gear-name-lv-50/beta?lang=en",
+            "name": "4321042",
+            "url": "https://zzz.gachabase.net/items/all/4321042/4321042/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321043",
-            "name": "Vulnerable Lighter Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321043/vulnerable-lighter-gear-name-lv-50/beta?lang=en",
+            "name": "4321043",
+            "url": "https://zzz.gachabase.net/items/all/4321043/4321043/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321044",
-            "name": "Vulnerable Qingyi Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321044/vulnerable-qingyi-gear-name-lv-50/beta?lang=en",
+            "name": "4321044",
+            "url": "https://zzz.gachabase.net/items/all/4321044/4321044/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321045",
-            "name": "Vulnerable Caesar Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321045/vulnerable-caesar-gear-name-lv-50/beta?lang=en",
+            "name": "4321045",
+            "url": "https://zzz.gachabase.net/items/all/4321045/4321045/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4321046",
-            "name": "Vulnerable Zhu Yuan Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4321046/vulnerable-zhu-yuan-gear-name-lv-50/beta?lang=en",
+            "name": "4321046",
+            "url": "https://zzz.gachabase.net/items/all/4321046/4321046/beta?lang=en",
             "icon": ""
         },
         {
@@ -32602,68 +32668,68 @@
         },
         {
             "id": "4322036",
-            "name": "Sunbringer Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322036/sunbringer-gear-name-lv-60/beta?lang=en",
+            "name": "4322036",
+            "url": "https://zzz.gachabase.net/items/all/4322036/4322036/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322037",
-            "name": "Robin Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322037/robin-gear-name-lv-60/beta?lang=en",
+            "name": "4322037",
+            "url": "https://zzz.gachabase.net/items/all/4322037/4322037/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322038",
-            "name": "Kafka Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322038/kafka-gear-name-lv-60/beta?lang=en",
+            "name": "4322038",
+            "url": "https://zzz.gachabase.net/items/all/4322038/4322038/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322039",
-            "name": "Seed Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322039/seed-gear-name-lv-60/beta?lang=en",
+            "name": "4322039",
+            "url": "https://zzz.gachabase.net/items/all/4322039/4322039/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322040",
-            "name": "Vivian Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322040/vivian-gear-name-lv-60/beta?lang=en",
+            "name": "4322040",
+            "url": "https://zzz.gachabase.net/items/all/4322040/4322040/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322041",
-            "name": "Hugo Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322041/hugo-gear-name-lv-60/beta?lang=en",
+            "name": "4322041",
+            "url": "https://zzz.gachabase.net/items/all/4322041/4322041/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322042",
-            "name": "Harumasa Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322042/harumasa-gear-name-lv-60/beta?lang=en",
+            "name": "4322042",
+            "url": "https://zzz.gachabase.net/items/all/4322042/4322042/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322043",
-            "name": "Lighter Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322043/lighter-gear-name-lv-60/beta?lang=en",
+            "name": "4322043",
+            "url": "https://zzz.gachabase.net/items/all/4322043/4322043/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322044",
-            "name": "Qingyi Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322044/qingyi-gear-name-lv-60/beta?lang=en",
+            "name": "4322044",
+            "url": "https://zzz.gachabase.net/items/all/4322044/4322044/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322045",
-            "name": "Caesar Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322045/caesar-gear-name-lv-60/beta?lang=en",
+            "name": "4322045",
+            "url": "https://zzz.gachabase.net/items/all/4322045/4322045/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4322046",
-            "name": "Zhu Yuan Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4322046/zhu-yuan-gear-name-lv-60/beta?lang=en",
+            "name": "4322046",
+            "url": "https://zzz.gachabase.net/items/all/4322046/4322046/beta?lang=en",
             "icon": ""
         },
         {
@@ -33256,68 +33322,68 @@
         },
         {
             "id": "4326036",
-            "name": "Sunbringer Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326036/sunbringer-gear-name-lv-50/beta?lang=en",
+            "name": "4326036",
+            "url": "https://zzz.gachabase.net/items/all/4326036/4326036/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326037",
-            "name": "Robin Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326037/robin-gear-name-lv-50/beta?lang=en",
+            "name": "4326037",
+            "url": "https://zzz.gachabase.net/items/all/4326037/4326037/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326038",
-            "name": "Kafka Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326038/kafka-gear-name-lv-50/beta?lang=en",
+            "name": "4326038",
+            "url": "https://zzz.gachabase.net/items/all/4326038/4326038/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326039",
-            "name": "Seed Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326039/seed-gear-name-lv-50/beta?lang=en",
+            "name": "4326039",
+            "url": "https://zzz.gachabase.net/items/all/4326039/4326039/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326040",
-            "name": "Vivian Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326040/vivian-gear-name-lv-50/beta?lang=en",
+            "name": "4326040",
+            "url": "https://zzz.gachabase.net/items/all/4326040/4326040/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326041",
-            "name": "Hugo Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326041/hugo-gear-name-lv-50/beta?lang=en",
+            "name": "4326041",
+            "url": "https://zzz.gachabase.net/items/all/4326041/4326041/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326042",
-            "name": "Harumasa Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326042/harumasa-gear-name-lv-50/beta?lang=en",
+            "name": "4326042",
+            "url": "https://zzz.gachabase.net/items/all/4326042/4326042/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326043",
-            "name": "Lighter Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326043/lighter-gear-name-lv-50/beta?lang=en",
+            "name": "4326043",
+            "url": "https://zzz.gachabase.net/items/all/4326043/4326043/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326044",
-            "name": "Qingyi Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326044/qingyi-gear-name-lv-50/beta?lang=en",
+            "name": "4326044",
+            "url": "https://zzz.gachabase.net/items/all/4326044/4326044/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326045",
-            "name": "Caesar Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326045/caesar-gear-name-lv-50/beta?lang=en",
+            "name": "4326045",
+            "url": "https://zzz.gachabase.net/items/all/4326045/4326045/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4326046",
-            "name": "Zhu Yuan Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4326046/zhu-yuan-gear-name-lv-50/beta?lang=en",
+            "name": "4326046",
+            "url": "https://zzz.gachabase.net/items/all/4326046/4326046/beta?lang=en",
             "icon": ""
         },
         {
@@ -33454,20 +33520,20 @@
         },
         {
             "id": "4333035",
-            "name": "Vulnerable Team Equipment Breach Protagonist Skill B",
-            "url": "https://zzz.gachabase.net/items/all/4333035/vulnerable-team-equipment-breach-protagonist-skill-b/beta?lang=en",
+            "name": "4333035",
+            "url": "https://zzz.gachabase.net/items/all/4333035/4333035/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4333036",
-            "name": "Vulnerable Team Equipment Door Break Protagonist Skill A",
-            "url": "https://zzz.gachabase.net/items/all/4333036/vulnerable-team-equipment-door-break-protagonist-skill-a/beta?lang=en",
+            "name": "4333036",
+            "url": "https://zzz.gachabase.net/items/all/4333036/4333036/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4333037",
-            "name": "Vulnerable Team Equipment Breach Protagonist Skill S",
-            "url": "https://zzz.gachabase.net/items/all/4333037/vulnerable-team-equipment-breach-protagonist-skill-s/beta?lang=en",
+            "name": "4333037",
+            "url": "https://zzz.gachabase.net/items/all/4333037/4333037/beta?lang=en",
             "icon": ""
         },
         {
@@ -33532,20 +33598,20 @@
         },
         {
             "id": "4333535",
-            "name": "Advanced Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4333535/advanced-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "Advanced Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4333535/advanced-blade-of-the-other-break-through/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4333536",
-            "name": "Specialized Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4333536/specialized-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "Specialized Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4333536/specialized-blade-of-the-other-break-through/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4333537",
-            "name": "High Grade Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4333537/high-grade-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "High Grade Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4333537/high-grade-blade-of-the-other-break-through/beta?lang=en",
             "icon": ""
         },
         {
@@ -33690,6 +33756,12 @@
             "id": "4334508",
             "name": "Support Beacon Sunbringer",
             "url": "https://zzz.gachabase.net/items/all/4334508/support-beacon-sunbringer/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4334509",
+            "name": "4334509",
+            "url": "https://zzz.gachabase.net/items/all/4334509/4334509/beta?lang=en",
             "icon": ""
         },
         {
@@ -33844,56 +33916,56 @@
         },
         {
             "id": "4340210",
-            "name": "Map 3 Bottom Floor Keycard A",
-            "url": "https://zzz.gachabase.net/items/all/4340210/map-3-bottom-floor-keycard-a/beta?lang=en",
+            "name": "4340210",
+            "url": "https://zzz.gachabase.net/items/all/4340210/4340210/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340211",
-            "name": "Map 3 Ground Floor Keycard B",
-            "url": "https://zzz.gachabase.net/items/all/4340211/map-3-ground-floor-keycard-b/beta?lang=en",
+            "name": "4340211",
+            "url": "https://zzz.gachabase.net/items/all/4340211/4340211/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340212",
-            "name": "Map 3 Mid Level Keycard A",
-            "url": "https://zzz.gachabase.net/items/all/4340212/map-3-mid-level-keycard-a/beta?lang=en",
+            "name": "4340212",
+            "url": "https://zzz.gachabase.net/items/all/4340212/4340212/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340213",
-            "name": "Map 3 Mid Level Keycard B",
-            "url": "https://zzz.gachabase.net/items/all/4340213/map-3-mid-level-keycard-b/beta?lang=en",
+            "name": "4340213",
+            "url": "https://zzz.gachabase.net/items/all/4340213/4340213/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340214",
-            "name": "Map 3 Mid Level Keycard C",
-            "url": "https://zzz.gachabase.net/items/all/4340214/map-3-mid-level-keycard-c/beta?lang=en",
+            "name": "4340214",
+            "url": "https://zzz.gachabase.net/items/all/4340214/4340214/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340215",
-            "name": "Map 3 Mid Level Keycard Prison No 7",
-            "url": "https://zzz.gachabase.net/items/all/4340215/map-3-mid-level-keycard-prison-no-7/beta?lang=en",
+            "name": "4340215",
+            "url": "https://zzz.gachabase.net/items/all/4340215/4340215/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340216",
-            "name": "Map 3 Mid Level Keycard Special Key",
-            "url": "https://zzz.gachabase.net/items/all/4340216/map-3-mid-level-keycard-special-key/beta?lang=en",
+            "name": "4340216",
+            "url": "https://zzz.gachabase.net/items/all/4340216/4340216/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340217",
-            "name": "Map 3 Upper Floor Keycard A",
-            "url": "https://zzz.gachabase.net/items/all/4340217/map-3-upper-floor-keycard-a/beta?lang=en",
+            "name": "4340217",
+            "url": "https://zzz.gachabase.net/items/all/4340217/4340217/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4340218",
-            "name": "Map 3 High Floor Keycard Memory Hub",
-            "url": "https://zzz.gachabase.net/items/all/4340218/map-3-high-floor-keycard-memory-hub/beta?lang=en",
+            "name": "4340218",
+            "url": "https://zzz.gachabase.net/items/all/4340218/4340218/beta?lang=en",
             "icon": ""
         },
         {
@@ -34000,20 +34072,20 @@
         },
         {
             "id": "4350016",
-            "name": "Blueprint Advanced Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4350016/blueprint-advanced-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "Blueprint Advanced Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4350016/blueprint-advanced-blade-of-the-other-break-through/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350017",
-            "name": "Blueprint Specialized Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4350017/blueprint-specialized-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "Blueprint Specialized Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4350017/blueprint-specialized-blade-of-the-other-break-through/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350018",
-            "name": "Blueprint High Grade Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4350018/blueprint-high-grade-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "Blueprint High Grade Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4350018/blueprint-high-grade-blade-of-the-other-break-through/beta?lang=en",
             "icon": ""
         },
         {
@@ -34606,68 +34678,68 @@
         },
         {
             "id": "4350336",
-            "name": "Blueprint Sunbringer Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350336/blueprint-sunbringer-gear-name-lv-60/beta?lang=en",
+            "name": "4350336",
+            "url": "https://zzz.gachabase.net/items/all/4350336/4350336/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350337",
-            "name": "Blueprint Robin Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350337/blueprint-robin-gear-name-lv-60/beta?lang=en",
+            "name": "4350337",
+            "url": "https://zzz.gachabase.net/items/all/4350337/4350337/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350338",
-            "name": "Blueprint Kafka Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350338/blueprint-kafka-gear-name-lv-60/beta?lang=en",
+            "name": "4350338",
+            "url": "https://zzz.gachabase.net/items/all/4350338/4350338/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350339",
-            "name": "Blueprint Seed Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350339/blueprint-seed-gear-name-lv-60/beta?lang=en",
+            "name": "4350339",
+            "url": "https://zzz.gachabase.net/items/all/4350339/4350339/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350340",
-            "name": "Blueprint Vivian Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350340/blueprint-vivian-gear-name-lv-60/beta?lang=en",
+            "name": "4350340",
+            "url": "https://zzz.gachabase.net/items/all/4350340/4350340/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350341",
-            "name": "Blueprint Hugo Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350341/blueprint-hugo-gear-name-lv-60/beta?lang=en",
+            "name": "4350341",
+            "url": "https://zzz.gachabase.net/items/all/4350341/4350341/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350342",
-            "name": "Blueprint Harumasa Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350342/blueprint-harumasa-gear-name-lv-60/beta?lang=en",
+            "name": "4350342",
+            "url": "https://zzz.gachabase.net/items/all/4350342/4350342/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350343",
-            "name": "Blueprint Lighter Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350343/blueprint-lighter-gear-name-lv-60/beta?lang=en",
+            "name": "4350343",
+            "url": "https://zzz.gachabase.net/items/all/4350343/4350343/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350344",
-            "name": "Blueprint Qingyi Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350344/blueprint-qingyi-gear-name-lv-60/beta?lang=en",
+            "name": "4350344",
+            "url": "https://zzz.gachabase.net/items/all/4350344/4350344/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350345",
-            "name": "Blueprint Caesar Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350345/blueprint-caesar-gear-name-lv-60/beta?lang=en",
+            "name": "4350345",
+            "url": "https://zzz.gachabase.net/items/all/4350345/4350345/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350346",
-            "name": "Blueprint Zhu Yuan Gear Name Lv 60",
-            "url": "https://zzz.gachabase.net/items/all/4350346/blueprint-zhu-yuan-gear-name-lv-60/beta?lang=en",
+            "name": "4350346",
+            "url": "https://zzz.gachabase.net/items/all/4350346/4350346/beta?lang=en",
             "icon": ""
         },
         {
@@ -34882,68 +34954,68 @@
         },
         {
             "id": "4350536",
-            "name": "Blueprint Sunbringer Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350536/blueprint-sunbringer-gear-name-lv-50/beta?lang=en",
+            "name": "4350536",
+            "url": "https://zzz.gachabase.net/items/all/4350536/4350536/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350537",
-            "name": "Blueprint Robin Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350537/blueprint-robin-gear-name-lv-50/beta?lang=en",
+            "name": "4350537",
+            "url": "https://zzz.gachabase.net/items/all/4350537/4350537/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350538",
-            "name": "Blueprint Kafka Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350538/blueprint-kafka-gear-name-lv-50/beta?lang=en",
+            "name": "4350538",
+            "url": "https://zzz.gachabase.net/items/all/4350538/4350538/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350539",
-            "name": "Blueprint Seed Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350539/blueprint-seed-gear-name-lv-50/beta?lang=en",
+            "name": "4350539",
+            "url": "https://zzz.gachabase.net/items/all/4350539/4350539/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350540",
-            "name": "Blueprint Vivian Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350540/blueprint-vivian-gear-name-lv-50/beta?lang=en",
+            "name": "4350540",
+            "url": "https://zzz.gachabase.net/items/all/4350540/4350540/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350541",
-            "name": "Blueprint Hugo Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350541/blueprint-hugo-gear-name-lv-50/beta?lang=en",
+            "name": "4350541",
+            "url": "https://zzz.gachabase.net/items/all/4350541/4350541/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350542",
-            "name": "Blueprint Harumasa Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350542/blueprint-harumasa-gear-name-lv-50/beta?lang=en",
+            "name": "4350542",
+            "url": "https://zzz.gachabase.net/items/all/4350542/4350542/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350543",
-            "name": "Blueprint Lighter Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350543/blueprint-lighter-gear-name-lv-50/beta?lang=en",
+            "name": "4350543",
+            "url": "https://zzz.gachabase.net/items/all/4350543/4350543/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350544",
-            "name": "Blueprint Qingyi Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350544/blueprint-qingyi-gear-name-lv-50/beta?lang=en",
+            "name": "4350544",
+            "url": "https://zzz.gachabase.net/items/all/4350544/4350544/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350545",
-            "name": "Blueprint Caesar Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350545/blueprint-caesar-gear-name-lv-50/beta?lang=en",
+            "name": "4350545",
+            "url": "https://zzz.gachabase.net/items/all/4350545/4350545/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4350546",
-            "name": "Blueprint Zhu Yuan Gear Name Lv 50",
-            "url": "https://zzz.gachabase.net/items/all/4350546/blueprint-zhu-yuan-gear-name-lv-50/beta?lang=en",
+            "name": "4350546",
+            "url": "https://zzz.gachabase.net/items/all/4350546/4350546/beta?lang=en",
             "icon": ""
         },
         {
@@ -35355,6 +35427,12 @@
             "icon": ""
         },
         {
+            "id": "4360079",
+            "name": "4360079",
+            "url": "https://zzz.gachabase.net/items/all/4360079/4360079/beta?lang=en",
+            "icon": ""
+        },
+        {
             "id": "4360080",
             "name": "Mimic Substance X",
             "url": "https://zzz.gachabase.net/items/all/4360080/mimic-substance-x/beta?lang=en",
@@ -35470,14 +35548,14 @@
         },
         {
             "id": "4360102",
-            "name": "T2 Old Capital Commemoration Stamp 1",
-            "url": "https://zzz.gachabase.net/items/all/4360102/t2-old-capital-commemoration-stamp-1/beta?lang=en",
+            "name": "4360102",
+            "url": "https://zzz.gachabase.net/items/all/4360102/4360102/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360103",
-            "name": "T2 Old Capital Commemoration Stamp 4",
-            "url": "https://zzz.gachabase.net/items/all/4360103/t2-old-capital-commemoration-stamp-4/beta?lang=en",
+            "name": "4360103",
+            "url": "https://zzz.gachabase.net/items/all/4360103/4360103/beta?lang=en",
             "icon": ""
         },
         {
@@ -35506,50 +35584,50 @@
         },
         {
             "id": "4360108",
-            "name": "T5 Active Ether Sample Unknown",
-            "url": "https://zzz.gachabase.net/items/all/4360108/t5-active-ether-sample-unknown/beta?lang=en",
+            "name": "4360108",
+            "url": "https://zzz.gachabase.net/items/all/4360108/4360108/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360109",
-            "name": "T5 Active Ether Sample Miasma Magenta",
-            "url": "https://zzz.gachabase.net/items/all/4360109/t5-active-ether-sample-miasma-magenta/beta?lang=en",
+            "name": "4360109",
+            "url": "https://zzz.gachabase.net/items/all/4360109/4360109/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360110",
-            "name": "T5 Active Ether Sample Cacophony Azure",
-            "url": "https://zzz.gachabase.net/items/all/4360110/t5-active-ether-sample-cacophony-azure/beta?lang=en",
+            "name": "4360110",
+            "url": "https://zzz.gachabase.net/items/all/4360110/4360110/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360111",
-            "name": "T5 Active Ether Sample Standard Fluorescent Yellow",
-            "url": "https://zzz.gachabase.net/items/all/4360111/t5-active-ether-sample-standard-fluorescent-yellow/beta?lang=en",
+            "name": "4360111",
+            "url": "https://zzz.gachabase.net/items/all/4360111/4360111/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360112",
-            "name": "T3 Camera Focus Orange Edition Seaside Glamour",
-            "url": "https://zzz.gachabase.net/items/all/4360112/t3-camera-focus-orange-edition-seaside-glamour/beta?lang=en",
+            "name": "4360112",
+            "url": "https://zzz.gachabase.net/items/all/4360112/4360112/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360113",
-            "name": "T3 Camera Focus Black Midnight Telephoto",
-            "url": "https://zzz.gachabase.net/items/all/4360113/t3-camera-focus-black-midnight-telephoto/beta?lang=en",
+            "name": "4360113",
+            "url": "https://zzz.gachabase.net/items/all/4360113/4360113/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360114",
-            "name": "T3 Camera Focus Orange Edition White",
-            "url": "https://zzz.gachabase.net/items/all/4360114/t3-camera-focus-orange-edition-white/beta?lang=en",
+            "name": "4360114",
+            "url": "https://zzz.gachabase.net/items/all/4360114/4360114/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360115",
-            "name": "T3 Camera Focus Orange Style Blue",
-            "url": "https://zzz.gachabase.net/items/all/4360115/t3-camera-focus-orange-style-blue/beta?lang=en",
+            "name": "4360115",
+            "url": "https://zzz.gachabase.net/items/all/4360115/4360115/beta?lang=en",
             "icon": ""
         },
         {
@@ -35626,194 +35704,194 @@
         },
         {
             "id": "4360128",
-            "name": "Common Maze Data Drive Graphics Card",
-            "url": "https://zzz.gachabase.net/items/all/4360128/common-maze-data-drive-graphics-card/beta?lang=en",
+            "name": "4360128",
+            "url": "https://zzz.gachabase.net/items/all/4360128/4360128/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360129",
-            "name": "Advanced Labyrinth Data Save Gpu",
-            "url": "https://zzz.gachabase.net/items/all/4360129/advanced-labyrinth-data-save-gpu/beta?lang=en",
+            "name": "4360129",
+            "url": "https://zzz.gachabase.net/items/all/4360129/4360129/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360130",
-            "name": "T0 Gold Ornament Fortune Blessings",
-            "url": "https://zzz.gachabase.net/items/all/4360130/t0-gold-ornament-fortune-blessings/beta?lang=en",
+            "name": "4360130",
+            "url": "https://zzz.gachabase.net/items/all/4360130/4360130/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360131",
-            "name": "T0 Gold Ornament Bubu On The Rise",
-            "url": "https://zzz.gachabase.net/items/all/4360131/t0-gold-ornament-bubu-on-the-rise/beta?lang=en",
+            "name": "4360131",
+            "url": "https://zzz.gachabase.net/items/all/4360131/4360131/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360132",
-            "name": "T0 Gold Ornament Busi Bukao",
-            "url": "https://zzz.gachabase.net/items/all/4360132/t0-gold-ornament-busi-bukao/beta?lang=en",
+            "name": "4360132",
+            "url": "https://zzz.gachabase.net/items/all/4360132/4360132/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360133",
-            "name": "T1 Masterpiece Bangboo With A Pearl Earring",
-            "url": "https://zzz.gachabase.net/items/all/4360133/t1-masterpiece-bangboo-with-a-pearl-earring/beta?lang=en",
+            "name": "4360133",
+            "url": "https://zzz.gachabase.net/items/all/4360133/4360133/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360134",
-            "name": "T1 Masterpiece The Gleaners Cloth",
-            "url": "https://zzz.gachabase.net/items/all/4360134/t1-masterpiece-the-gleaners-cloth/beta?lang=en",
+            "name": "4360134",
+            "url": "https://zzz.gachabase.net/items/all/4360134/4360134/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360135",
-            "name": "T1 Secret Recipe Herbal Tea",
-            "url": "https://zzz.gachabase.net/items/all/4360135/t1-secret-recipe-herbal-tea/beta?lang=en",
+            "name": "4360135",
+            "url": "https://zzz.gachabase.net/items/all/4360135/4360135/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360136",
-            "name": "T1 Phoenix Exclusive Red Back From The Dead",
-            "url": "https://zzz.gachabase.net/items/all/4360136/t1-phoenix-exclusive-red-back-from-the-dead/beta?lang=en",
+            "name": "4360136",
+            "url": "https://zzz.gachabase.net/items/all/4360136/4360136/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360137",
-            "name": "T1 Severian Exclusive Red No Escaping Justice",
-            "url": "https://zzz.gachabase.net/items/all/4360137/t1-severian-exclusive-red-no-escaping-justice/beta?lang=en",
+            "name": "4360137",
+            "url": "https://zzz.gachabase.net/items/all/4360137/4360137/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360138",
-            "name": "T1 Sunbringer Exclusive Big Red",
-            "url": "https://zzz.gachabase.net/items/all/4360138/t1-sunbringer-exclusive-big-red/beta?lang=en",
+            "name": "4360138",
+            "url": "https://zzz.gachabase.net/items/all/4360138/4360138/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360139",
-            "name": "T2 Relief Wall Art Slumbering Knight",
-            "url": "https://zzz.gachabase.net/items/all/4360139/t2-relief-wall-art-slumbering-knight/beta?lang=en",
+            "name": "4360139",
+            "url": "https://zzz.gachabase.net/items/all/4360139/4360139/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360140",
-            "name": "T2 Disco Ball",
-            "url": "https://zzz.gachabase.net/items/all/4360140/t2-disco-ball/beta?lang=en",
+            "name": "4360140",
+            "url": "https://zzz.gachabase.net/items/all/4360140/4360140/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360141",
-            "name": "T2 Vr Headset",
-            "url": "https://zzz.gachabase.net/items/all/4360141/t2-vr-headset/beta?lang=en",
+            "name": "4360141",
+            "url": "https://zzz.gachabase.net/items/all/4360141/4360141/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360142",
-            "name": "T2 Hollow Explorer Badge",
-            "url": "https://zzz.gachabase.net/items/all/4360142/t2-hollow-explorer-badge/beta?lang=en",
+            "name": "4360142",
+            "url": "https://zzz.gachabase.net/items/all/4360142/4360142/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360143",
-            "name": "T2 Phoenix Fabric",
-            "url": "https://zzz.gachabase.net/items/all/4360143/t2-phoenix-fabric/beta?lang=en",
+            "name": "4360143",
+            "url": "https://zzz.gachabase.net/items/all/4360143/4360143/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360144",
-            "name": "T2 Sunbringer Bangboo",
-            "url": "https://zzz.gachabase.net/items/all/4360144/t2-sunbringer-bangboo/beta?lang=en",
+            "name": "4360144",
+            "url": "https://zzz.gachabase.net/items/all/4360144/4360144/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360145",
-            "name": "T2 Remie Fabric",
-            "url": "https://zzz.gachabase.net/items/all/4360145/t2-remie-fabric/beta?lang=en",
+            "name": "4360145",
+            "url": "https://zzz.gachabase.net/items/all/4360145/4360145/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360146",
-            "name": "T2 Hoshimi Miyabi Fabric",
-            "url": "https://zzz.gachabase.net/items/all/4360146/t2-hoshimi-miyabi-fabric/beta?lang=en",
+            "name": "4360146",
+            "url": "https://zzz.gachabase.net/items/all/4360146/4360146/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360147",
-            "name": "T2 Ellen Fabric",
-            "url": "https://zzz.gachabase.net/items/all/4360147/t2-ellen-fabric/beta?lang=en",
+            "name": "4360147",
+            "url": "https://zzz.gachabase.net/items/all/4360147/4360147/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360148",
-            "name": "T4 Evil Quelling Token Redwood",
-            "url": "https://zzz.gachabase.net/items/all/4360148/t4-evil-quelling-token-redwood/beta?lang=en",
+            "name": "4360148",
+            "url": "https://zzz.gachabase.net/items/all/4360148/4360148/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360149",
-            "name": "T4 Demon Slayer Token Bronze",
-            "url": "https://zzz.gachabase.net/items/all/4360149/t4-demon-slayer-token-bronze/beta?lang=en",
+            "name": "4360149",
+            "url": "https://zzz.gachabase.net/items/all/4360149/4360149/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360150",
-            "name": "T4 Evil Quelling Token Gunmetal",
-            "url": "https://zzz.gachabase.net/items/all/4360150/t4-evil-quelling-token-gunmetal/beta?lang=en",
+            "name": "4360150",
+            "url": "https://zzz.gachabase.net/items/all/4360150/4360150/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360151",
-            "name": "T4 Demon Quelling Token Jade",
-            "url": "https://zzz.gachabase.net/items/all/4360151/t4-demon-quelling-token-jade/beta?lang=en",
+            "name": "4360151",
+            "url": "https://zzz.gachabase.net/items/all/4360151/4360151/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360152",
-            "name": "T4 Beatrice No 5 Perfume",
-            "url": "https://zzz.gachabase.net/items/all/4360152/t4-beatrice-no-5-perfume/beta?lang=en",
+            "name": "4360152",
+            "url": "https://zzz.gachabase.net/items/all/4360152/4360152/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360153",
-            "name": "T4 Beatrice No 3 Perfume",
-            "url": "https://zzz.gachabase.net/items/all/4360153/t4-beatrice-no-3-perfume/beta?lang=en",
+            "name": "4360153",
+            "url": "https://zzz.gachabase.net/items/all/4360153/4360153/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360154",
-            "name": "T4 Beatrice No 1 Perfume",
-            "url": "https://zzz.gachabase.net/items/all/4360154/t4-beatrice-no-1-perfume/beta?lang=en",
+            "name": "4360154",
+            "url": "https://zzz.gachabase.net/items/all/4360154/4360154/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360155",
-            "name": "T4 Beatrice No 9 Perfume",
-            "url": "https://zzz.gachabase.net/items/all/4360155/t4-beatrice-no-9-perfume/beta?lang=en",
+            "name": "4360155",
+            "url": "https://zzz.gachabase.net/items/all/4360155/4360155/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360156",
-            "name": "T3 Jade Pendant White Jade",
-            "url": "https://zzz.gachabase.net/items/all/4360156/t3-jade-pendant-white-jade/beta?lang=en",
+            "name": "4360156",
+            "url": "https://zzz.gachabase.net/items/all/4360156/4360156/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360157",
-            "name": "T3 Jade Pendant Celadon Jade",
-            "url": "https://zzz.gachabase.net/items/all/4360157/t3-jade-pendant-celadon-jade/beta?lang=en",
+            "name": "4360157",
+            "url": "https://zzz.gachabase.net/items/all/4360157/4360157/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360158",
-            "name": "T3 Jade Pendant Topaz",
-            "url": "https://zzz.gachabase.net/items/all/4360158/t3-jade-pendant-topaz/beta?lang=en",
+            "name": "4360158",
+            "url": "https://zzz.gachabase.net/items/all/4360158/4360158/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4360159",
-            "name": "T3 Jade Pendant Black Jade",
-            "url": "https://zzz.gachabase.net/items/all/4360159/t3-jade-pendant-black-jade/beta?lang=en",
+            "name": "4360159",
+            "url": "https://zzz.gachabase.net/items/all/4360159/4360159/beta?lang=en",
             "icon": ""
         },
         {
@@ -35998,62 +36076,80 @@
         },
         {
             "id": "4364016",
-            "name": "Auction Token Voucher Low Rank",
-            "url": "https://zzz.gachabase.net/items/all/4364016/auction-token-voucher-low-rank/beta?lang=en",
+            "name": "4364016",
+            "url": "https://zzz.gachabase.net/items/all/4364016/4364016/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364017",
-            "name": "Auction Token Voucher Intermediate",
-            "url": "https://zzz.gachabase.net/items/all/4364017/auction-token-voucher-intermediate/beta?lang=en",
+            "name": "4364017",
+            "url": "https://zzz.gachabase.net/items/all/4364017/4364017/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364018",
-            "name": "Auction Token Voucher Advanced",
-            "url": "https://zzz.gachabase.net/items/all/4364018/auction-token-voucher-advanced/beta?lang=en",
+            "name": "4364018",
+            "url": "https://zzz.gachabase.net/items/all/4364018/4364018/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364901",
-            "name": "Test Hacking Mission Item",
-            "url": "https://zzz.gachabase.net/items/all/4364901/test-hacking-mission-item/beta?lang=en",
+            "name": "4364901",
+            "url": "https://zzz.gachabase.net/items/all/4364901/4364901/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364902",
-            "name": "Test Target Seizes Mission Item",
-            "url": "https://zzz.gachabase.net/items/all/4364902/test-target-seizes-mission-item/beta?lang=en",
+            "name": "4364902",
+            "url": "https://zzz.gachabase.net/items/all/4364902/4364902/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364903",
-            "name": "Mission Low End Graphics Card",
-            "url": "https://zzz.gachabase.net/items/all/4364903/mission-low-end-graphics-card/beta?lang=en",
+            "name": "4364903",
+            "url": "https://zzz.gachabase.net/items/all/4364903/4364903/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364904",
-            "name": "Mission Advanced Graphics Card",
-            "url": "https://zzz.gachabase.net/items/all/4364904/mission-advanced-graphics-card/beta?lang=en",
+            "name": "4364904",
+            "url": "https://zzz.gachabase.net/items/all/4364904/4364904/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364905",
-            "name": "Mission Mid Level Keycard Special Key",
-            "url": "https://zzz.gachabase.net/items/all/4364905/mission-mid-level-keycard-special-key/beta?lang=en",
+            "name": "4364905",
+            "url": "https://zzz.gachabase.net/items/all/4364905/4364905/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364906",
-            "name": "Mission Upper Floor Keycard Memory Hub",
-            "url": "https://zzz.gachabase.net/items/all/4364906/mission-upper-floor-keycard-memory-hub/beta?lang=en",
+            "name": "4364906",
+            "url": "https://zzz.gachabase.net/items/all/4364906/4364906/beta?lang=en",
             "icon": ""
         },
         {
             "id": "4364907",
-            "name": "Specialized Blade Of The Other Barrier Break",
-            "url": "https://zzz.gachabase.net/items/all/4364907/specialized-blade-of-the-other-barrier-break/beta?lang=en",
+            "name": "Specialized Blade Of The Other Break Through",
+            "url": "https://zzz.gachabase.net/items/all/4364907/specialized-blade-of-the-other-break-through/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4364908",
+            "name": "4364908",
+            "url": "https://zzz.gachabase.net/items/all/4364908/4364908/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4364909",
+            "name": "Ruby",
+            "url": "https://zzz.gachabase.net/items/all/4364909/ruby/beta?lang=en",
+            "icon": ""
+        },
+        {
+            "id": "4364910",
+            "name": "4364910",
+            "url": "https://zzz.gachabase.net/items/all/4364910/4364910/beta?lang=en",
             "icon": ""
         },
         {
@@ -36502,8 +36598,8 @@
         },
         {
             "id": "4410001",
-            "name": "Freeze Frame Film",
-            "url": "https://zzz.gachabase.net/items/all/4410001/freeze-frame-film/beta?lang=en",
+            "name": "Still Frame Film",
+            "url": "https://zzz.gachabase.net/items/all/4410001/still-frame-film/beta?lang=en",
             "icon": ""
         },
         {
